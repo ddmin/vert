@@ -2,4 +2,6 @@
 
 # vert: conjugation practice tool
 
-import rich
+from rich import print as rprint
+
+rprint(locals())

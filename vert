@@ -53,15 +53,11 @@ def get_infinitive(verb):
     link = f'https://conjugator.reverso.net/conjugation-french-verb-{verb}.html'
     r = requests.get(link).text
     soup = BeautifulSoup(r, 'lxml')
-
     infinitive = soup.find('a', {'class': 'targetted-word-transl'}).text
-    return infinitive
 
-def get_conj(verb):
-    link = f'https://conjugator.reverso.net/conjugation-french-verb-{verb}.html'
-    r = requests.get(link).text
-    soup = BeautifulSoup(r, 'lxml')
+    return infinitive, soup
 
+def get_conj(verb, soup):
     soup = soup.find('div', {'id': 'ch_divSimple'})
     blue = soup.find_all('div', {'class': 'blue-box-wrap'})
 
@@ -162,7 +158,7 @@ def main():
 
     elif '-c' in sys.argv:
         verb = sys.argv[sys.argv.index('-c') + 1]
-        inf = get_infinitive(verb)
+        inf, soup = get_infinitive(verb)
 
         # can't be bothered to handle this exceptions
         if inf == 'falloir':
@@ -179,7 +175,12 @@ def main():
             console.print(table)
             sys.exit()
 
-        conj = get_conj(verb)
+        conj = get_conj(verb, soup)
+
+        # so many exceptions
+        if inf  == 'pouvoir':
+            conj['Présent'] = {'Je': 'peux', 'Tu': 'peux', 'Il/Elle/On': 'peut', 'Nous': 'pouvons', 'Vous': 'pouvez', 'Ils/Elles': 'peuvent'}
+
         format_table(inf, conj)
 
     else:

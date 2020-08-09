@@ -36,13 +36,31 @@ pronoun = [
             'Ils/Elles'
         ]
 
+colors = [
+            '#ff0000',
+            '#ffa500',
+            '#ffff00',
+            '#90ee90',
+            '#00ff00',
+            '#add8e6',
+            '#87ceeb',
+            '#ffc0cb',
+            '#ee82ee',
+            '#ffffff'
+        ]
 
-def get_conj(verb):
+def get_infinitive(verb):
     link = f'https://conjugator.reverso.net/conjugation-french-verb-{verb}.html'
     r = requests.get(link).text
     soup = BeautifulSoup(r, 'lxml')
 
     infinitive = soup.find('a', {'class': 'targetted-word-transl'}).text
+    return infinitive
+
+def get_conj(verb):
+    link = f'https://conjugator.reverso.net/conjugation-french-verb-{verb}.html'
+    r = requests.get(link).text
+    soup = BeautifulSoup(r, 'lxml')
 
     soup = soup.find('div', {'id': 'ch_divSimple'})
     blue = soup.find_all('div', {'class': 'blue-box-wrap'})
@@ -103,25 +121,12 @@ def get_conj(verb):
             verbs[y] = {pronoun[i]: a[i] for i in range(6)}
             count += 1
 
-    return infinitive, verbs
+    return verbs
 
 def format_table(verb, conj):
     table = Table(title = f'{verb} Conjugation')
 
-    table.add_column('', style='cyan')
-
-    colors = [
-                '#ff0000',
-                '#ffa500',
-                '#ffff00',
-                '#90ee90',
-                '#00ff00',
-                '#add8e6',
-                '#87ceeb',
-                '#ffc0cb',
-                '#ee82ee',
-                '#ffffff'
-            ]
+    table.add_column('', style='magenta')
 
     for n, c in zip(names, colors):
         table.add_column(n, justify='left', style=c)
@@ -134,14 +139,19 @@ def format_table(verb, conj):
 
 def info():
         rprint('[#90ee90]vert[/#90ee90]: french conjugation terminal utility\n')
-        rprint('usage: [#90ee90]vert[/#90ee90] [#ffc0cb][-c] \[verb][/#ffc0cb] [#87ceeb][-q] \[list][/#87ceeb]\n')
-        rprint('[#ffc0cb]-c[/#ffc0cb]           : conjugate mode')
+        rprint('usage: [#90ee90]vert[/#90ee90] [#ffc0cb][-c] \[verb][/#ffc0cb] [#87ceeb][-q] \[list][/#87ceeb] [-h]\n')
+        rprint('-h           : display this message and exit')
+        rprint('[#ffc0cb]-c[/#ffc0cb]           : conjugation mode')
         rprint('    verb     : verb to conjugate')
         rprint('[#87ceeb]-q[/#87ceeb]           : quiz mode')
         rprint('    list     : list to use for quiz')
 
 def main():
     if len(sys.argv) < 3:
+        info()
+        sys.exit()
+
+    elif '-h' in sys.argv:
         info()
         sys.exit()
 
@@ -152,7 +162,24 @@ def main():
 
     elif '-c' in sys.argv:
         verb = sys.argv[sys.argv.index('-c') + 1]
-        inf, conj = get_conj(verb)
+        inf = get_infinitive(verb)
+
+        # can't be bothered to handle this exceptions
+        if inf == 'falloir':
+            table = Table(title = f'{inf} Conjugation')
+
+            table.add_column('', style='magenta')
+
+            for n, c in zip(names, colors):
+                table.add_column(n, justify='left', style=c)
+
+            table.add_row('Il', 'faut', 'fallait', 'faudra', 'a fallu', 'avait fallu', 'aura fallu', 'faille', 'ait fallu', 'faudrait', 'aurait fallu')
+
+            console = Console()
+            console.print(table)
+            sys.exit()
+
+        conj = get_conj(verb)
         format_table(inf, conj)
 
     else:

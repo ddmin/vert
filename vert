@@ -2,6 +2,9 @@
 
 # vert: conjugation practice tool
 
+# system
+import sys
+
 # webscraping
 import requests
 from bs4 import BeautifulSoup
@@ -113,10 +116,10 @@ def format_table(verb, conj):
                 '#ffff00',
                 '#90ee90',
                 '#00ff00',
+                '#add8e6',
                 '#87ceeb',
                 '#ffc0cb',
                 '#ee82ee',
-                '#a52a2a',
                 '#ffffff'
             ]
 
@@ -129,12 +132,32 @@ def format_table(verb, conj):
     console = Console()
     console.print(table)
 
-def main():
-    print('Enter verb:')
-    verb = input('> ')
+def info():
+        rprint('[#90ee90]vert[/#90ee90]: french conjugation terminal utility\n')
+        rprint('usage: [#90ee90]vert[/#90ee90] [#ffc0cb][-c] \[verb][/#ffc0cb] [#87ceeb][-q] \[list][/#87ceeb]\n')
+        rprint('[#ffc0cb]-c[/#ffc0cb]           : conjugate mode')
+        rprint('    verb     : verb to conjugate')
+        rprint('[#87ceeb]-q[/#87ceeb]           : quiz mode')
+        rprint('    list     : list to use for quiz')
 
-    inf, conj = get_conj(verb)
-    format_table(inf, conj)
+def main():
+    if len(sys.argv) < 3:
+        info()
+        sys.exit()
+
+    elif '-q' in sys.argv:
+        lst = sys.argv[sys.argv.index('-q') + 1]
+        print('Quiz Mode')
+        print(lst)
+
+    elif '-c' in sys.argv:
+        verb = sys.argv[sys.argv.index('-c') + 1]
+        inf, conj = get_conj(verb)
+        format_table(inf, conj)
+
+    else:
+        info()
+        sys.exit()
 
 if __name__ == '__main__':
     main()

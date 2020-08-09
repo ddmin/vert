@@ -30,7 +30,7 @@ names = [
 pronoun = [
             'Je',
             'Tu',
-            'Il/Elle/On',
+            'Il/Elle',
             'Nous',
             'Vous',
             'Ils/Elles'
@@ -179,7 +179,7 @@ def main():
 
         # so many exceptions
         if inf  == 'pouvoir':
-            conj['Présent'] = {'Je': 'peux', 'Tu': 'peux', 'Il/Elle/On': 'peut', 'Nous': 'pouvons', 'Vous': 'pouvez', 'Ils/Elles': 'peuvent'}
+            conj['Présent'] = {'Je': 'peux', 'Tu': 'peux', 'Il/Elle': 'peut', 'Nous': 'pouvons', 'Vous': 'pouvez', 'Ils/Elles': 'peuvent'}
 
         format_table(inf, conj)
 

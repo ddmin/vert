@@ -1,4 +1,4 @@
 # vert
 
-Conjugation practice in the terminal
+French conjugation tool for the terminal
 ![vert image](vert.png)

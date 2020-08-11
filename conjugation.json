@@ -1,0 +1,5250 @@
+{
+    "aller": {
+        "Pr\u00e9sent": {
+            "Je": "vais",
+            "Tu": "vas",
+            "Il/Elle": "va",
+            "Nous": "allons",
+            "Vous": "allez",
+            "Ils/Elles": "vont"
+        },
+        "Imparfait": {
+            "Je": "allais",
+            "Tu": "allais",
+            "Il/Elle": "allait",
+            "Nous": "allions",
+            "Vous": "alliez",
+            "Ils/Elles": "allaient"
+        },
+        "Futur": {
+            "Je": "irai",
+            "Tu": "iras",
+            "Il/Elle": "ira",
+            "Nous": "irons",
+            "Vous": "irez",
+            "Ils/Elles": "iront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "suis all\u00e9",
+            "Tu": "es all\u00e9",
+            "Il/Elle": "est all\u00e9(e)",
+            "Nous": "sommes all\u00e9s",
+            "Vous": "\u00eates all\u00e9s",
+            "Ils/Elles": "sont all\u00e9(e)s"
+        },
+        "Plus que Parfait": {
+            "Je": "\u00e9tais all\u00e9",
+            "Tu": "\u00e9tais all\u00e9",
+            "Il/Elle": "\u00e9tait all\u00e9(e)",
+            "Nous": "\u00e9tions all\u00e9s",
+            "Vous": "\u00e9tiez all\u00e9s",
+            "Ils/Elles": "\u00e9taient all\u00e9(e)s"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "serai all\u00e9",
+            "Tu": "seras all\u00e9",
+            "Il/Elle": "sera all\u00e9(e)",
+            "Nous": "serons all\u00e9s",
+            "Vous": "serez all\u00e9s",
+            "Ils/Elles": "seront all\u00e9(e)s"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "aille",
+            "Tu": "ailles",
+            "Il/Elle": "aille",
+            "Nous": "allions",
+            "Vous": "alliez",
+            "Ils/Elles": "aillent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "sois all\u00e9",
+            "Tu": "sois all\u00e9",
+            "Il/Elle": "soit all\u00e9(e)",
+            "Nous": "soyons all\u00e9s",
+            "Vous": "soyez all\u00e9s",
+            "Ils/Elles": "soient all\u00e9(e)s"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "irais",
+            "Tu": "irais",
+            "Il/Elle": "irait",
+            "Nous": "irions",
+            "Vous": "iriez",
+            "Ils/Elles": "iraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "serais all\u00e9",
+            "Tu": "serais all\u00e9",
+            "Il/Elle": "serait all\u00e9(e)",
+            "Nous": "serions all\u00e9s",
+            "Vous": "seriez all\u00e9s",
+            "Ils/Elles": "seraient all\u00e9(e)s"
+        }
+    },
+    "avoir": {
+        "Pr\u00e9sent": {
+            "Je": "ai",
+            "Tu": "as",
+            "Il/Elle": "a",
+            "Nous": "avons",
+            "Vous": "avez",
+            "Ils/Elles": "ont"
+        },
+        "Imparfait": {
+            "Je": "avais",
+            "Tu": "avais",
+            "Il/Elle": "avait",
+            "Nous": "avions",
+            "Vous": "aviez",
+            "Ils/Elles": "avaient"
+        },
+        "Futur": {
+            "Je": "aurai",
+            "Tu": "auras",
+            "Il/Elle": "aura",
+            "Nous": "aurons",
+            "Vous": "aurez",
+            "Ils/Elles": "auront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai eu",
+            "Tu": "as eu",
+            "Il/Elle": "a eu",
+            "Nous": "avons eu",
+            "Vous": "avez eu",
+            "Ils/Elles": "ont eu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais eu",
+            "Tu": "avais eu",
+            "Il/Elle": "avait eu",
+            "Nous": "avions eu",
+            "Vous": "aviez eu",
+            "Ils/Elles": "avaient eu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai eu",
+            "Tu": "auras eu",
+            "Il/Elle": "aura eu",
+            "Nous": "aurons eu",
+            "Vous": "aurez eu",
+            "Ils/Elles": "auront eu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "aie",
+            "Tu": "aies",
+            "Il/Elle": "ait",
+            "Nous": "ayons",
+            "Vous": "ayez",
+            "Ils/Elles": "aient"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie eu",
+            "Tu": "aies eu",
+            "Il/Elle": "ait eu",
+            "Nous": "ayons eu",
+            "Vous": "ayez eu",
+            "Ils/Elles": "aient eu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "aurais",
+            "Tu": "aurais",
+            "Il/Elle": "aurait",
+            "Nous": "aurions",
+            "Vous": "auriez",
+            "Ils/Elles": "auraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais eu",
+            "Tu": "aurais eu",
+            "Il/Elle": "aurait eu",
+            "Nous": "aurions eu",
+            "Vous": "auriez eu",
+            "Ils/Elles": "auraient eu"
+        }
+    },
+    "dire": {
+        "Pr\u00e9sent": {
+            "Je": "dis",
+            "Tu": "dis",
+            "Il/Elle": "dit",
+            "Nous": "disons",
+            "Vous": "dites",
+            "Ils/Elles": "disent"
+        },
+        "Imparfait": {
+            "Je": "disais",
+            "Tu": "disais",
+            "Il/Elle": "disait",
+            "Nous": "disions",
+            "Vous": "disiez",
+            "Ils/Elles": "disaient"
+        },
+        "Futur": {
+            "Je": "dirai",
+            "Tu": "diras",
+            "Il/Elle": "dira",
+            "Nous": "dirons",
+            "Vous": "direz",
+            "Ils/Elles": "diront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai dit",
+            "Tu": "as dit",
+            "Il/Elle": "a dit",
+            "Nous": "avons dit",
+            "Vous": "avez dit",
+            "Ils/Elles": "ont dit"
+        },
+        "Plus que Parfait": {
+            "Je": "avais dit",
+            "Tu": "avais dit",
+            "Il/Elle": "avait dit",
+            "Nous": "avions dit",
+            "Vous": "aviez dit",
+            "Ils/Elles": "avaient dit"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai dit",
+            "Tu": "auras dit",
+            "Il/Elle": "aura dit",
+            "Nous": "aurons dit",
+            "Vous": "aurez dit",
+            "Ils/Elles": "auront dit"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "dise",
+            "Tu": "dises",
+            "Il/Elle": "dise",
+            "Nous": "disions",
+            "Vous": "disiez",
+            "Ils/Elles": "disent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie dit",
+            "Tu": "aies dit",
+            "Il/Elle": "ait dit",
+            "Nous": "ayons dit",
+            "Vous": "ayez dit",
+            "Ils/Elles": "aient dit"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "dirais",
+            "Tu": "dirais",
+            "Il/Elle": "dirait",
+            "Nous": "dirions",
+            "Vous": "diriez",
+            "Ils/Elles": "diraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais dit",
+            "Tu": "aurais dit",
+            "Il/Elle": "aurait dit",
+            "Nous": "aurions dit",
+            "Vous": "auriez dit",
+            "Ils/Elles": "auraient dit"
+        }
+    },
+    "\u00eatre": {
+        "Pr\u00e9sent": {
+            "Je": "suis",
+            "Tu": "es",
+            "Il/Elle": "est",
+            "Nous": "sommes",
+            "Vous": "\u00eates",
+            "Ils/Elles": "sont"
+        },
+        "Imparfait": {
+            "Je": "\u00e9tais",
+            "Tu": "\u00e9tais",
+            "Il/Elle": "\u00e9tait",
+            "Nous": "\u00e9tions",
+            "Vous": "\u00e9tiez",
+            "Ils/Elles": "\u00e9taient"
+        },
+        "Futur": {
+            "Je": "serai",
+            "Tu": "seras",
+            "Il/Elle": "sera",
+            "Nous": "serons",
+            "Vous": "serez",
+            "Ils/Elles": "seront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai \u00e9t\u00e9",
+            "Tu": "as \u00e9t\u00e9",
+            "Il/Elle": "a \u00e9t\u00e9",
+            "Nous": "avons \u00e9t\u00e9",
+            "Vous": "avez \u00e9t\u00e9",
+            "Ils/Elles": "ont \u00e9t\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais \u00e9t\u00e9",
+            "Tu": "avais \u00e9t\u00e9",
+            "Il/Elle": "avait \u00e9t\u00e9",
+            "Nous": "avions \u00e9t\u00e9",
+            "Vous": "aviez \u00e9t\u00e9",
+            "Ils/Elles": "avaient \u00e9t\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai \u00e9t\u00e9",
+            "Tu": "auras \u00e9t\u00e9",
+            "Il/Elle": "aura \u00e9t\u00e9",
+            "Nous": "aurons \u00e9t\u00e9",
+            "Vous": "aurez \u00e9t\u00e9",
+            "Ils/Elles": "auront \u00e9t\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "sois",
+            "Tu": "sois",
+            "Il/Elle": "soit",
+            "Nous": "soyons",
+            "Vous": "soyez",
+            "Ils/Elles": "soient"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie \u00e9t\u00e9",
+            "Tu": "aies \u00e9t\u00e9",
+            "Il/Elle": "ait \u00e9t\u00e9",
+            "Nous": "ayons \u00e9t\u00e9",
+            "Vous": "ayez \u00e9t\u00e9",
+            "Ils/Elles": "aient \u00e9t\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "serais",
+            "Tu": "serais",
+            "Il/Elle": "serait",
+            "Nous": "serions",
+            "Vous": "seriez",
+            "Ils/Elles": "seraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais \u00e9t\u00e9",
+            "Tu": "aurais \u00e9t\u00e9",
+            "Il/Elle": "aurait \u00e9t\u00e9",
+            "Nous": "aurions \u00e9t\u00e9",
+            "Vous": "auriez \u00e9t\u00e9",
+            "Ils/Elles": "auraient \u00e9t\u00e9"
+        }
+    },
+    "faire": {
+        "Pr\u00e9sent": {
+            "Je": "fais",
+            "Tu": "fais",
+            "Il/Elle": "fait",
+            "Nous": "faisons",
+            "Vous": "faites",
+            "Ils/Elles": "font"
+        },
+        "Imparfait": {
+            "Je": "faisais",
+            "Tu": "faisais",
+            "Il/Elle": "faisait",
+            "Nous": "faisions",
+            "Vous": "faisiez",
+            "Ils/Elles": "faisaient"
+        },
+        "Futur": {
+            "Je": "ferai",
+            "Tu": "feras",
+            "Il/Elle": "fera",
+            "Nous": "ferons",
+            "Vous": "ferez",
+            "Ils/Elles": "feront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai fait",
+            "Tu": "as fait",
+            "Il/Elle": "a fait",
+            "Nous": "avons fait",
+            "Vous": "avez fait",
+            "Ils/Elles": "ont fait"
+        },
+        "Plus que Parfait": {
+            "Je": "avais fait",
+            "Tu": "avais fait",
+            "Il/Elle": "avait fait",
+            "Nous": "avions fait",
+            "Vous": "aviez fait",
+            "Ils/Elles": "avaient fait"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai fait",
+            "Tu": "auras fait",
+            "Il/Elle": "aura fait",
+            "Nous": "aurons fait",
+            "Vous": "aurez fait",
+            "Ils/Elles": "auront fait"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "fasse",
+            "Tu": "fasses",
+            "Il/Elle": "fasse",
+            "Nous": "fassions",
+            "Vous": "fassiez",
+            "Ils/Elles": "fassent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie fait",
+            "Tu": "aies fait",
+            "Il/Elle": "ait fait",
+            "Nous": "ayons fait",
+            "Vous": "ayez fait",
+            "Ils/Elles": "aient fait"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "ferais",
+            "Tu": "ferais",
+            "Il/Elle": "ferait",
+            "Nous": "ferions",
+            "Vous": "feriez",
+            "Ils/Elles": "feraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais fait",
+            "Tu": "aurais fait",
+            "Il/Elle": "aurait fait",
+            "Nous": "aurions fait",
+            "Vous": "auriez fait",
+            "Ils/Elles": "auraient fait"
+        }
+    },
+    "pouvoir": {
+        "Pr\u00e9sent": {
+            "Je": "peuxpeux",
+            "Tu": "peutpouvons",
+            "Il/Elle": "pouvezpeuvent",
+            "Nous": "puispeux",
+            "Vous": "peutpouvons",
+            "Ils/Elles": "pouvezpeuvent"
+        },
+        "Imparfait": {
+            "Je": "pouvais",
+            "Tu": "pouvais",
+            "Il/Elle": "pouvait",
+            "Nous": "pouvions",
+            "Vous": "pouviez",
+            "Ils/Elles": "pouvaient"
+        },
+        "Futur": {
+            "Je": "pourrai",
+            "Tu": "pourras",
+            "Il/Elle": "pourra",
+            "Nous": "pourrons",
+            "Vous": "pourrez",
+            "Ils/Elles": "pourront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai pu",
+            "Tu": "as pu",
+            "Il/Elle": "a pu",
+            "Nous": "avons pu",
+            "Vous": "avez pu",
+            "Ils/Elles": "ont pu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais pu",
+            "Tu": "avais pu",
+            "Il/Elle": "avait pu",
+            "Nous": "avions pu",
+            "Vous": "aviez pu",
+            "Ils/Elles": "avaient pu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai pu",
+            "Tu": "auras pu",
+            "Il/Elle": "aura pu",
+            "Nous": "aurons pu",
+            "Vous": "aurez pu",
+            "Ils/Elles": "auront pu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "puisse",
+            "Tu": "puisses",
+            "Il/Elle": "puisse",
+            "Nous": "puissions",
+            "Vous": "puissiez",
+            "Ils/Elles": "puissent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie pu",
+            "Tu": "aies pu",
+            "Il/Elle": "ait pu",
+            "Nous": "ayons pu",
+            "Vous": "ayez pu",
+            "Ils/Elles": "aient pu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "pourrais",
+            "Tu": "pourrais",
+            "Il/Elle": "pourrait",
+            "Nous": "pourrions",
+            "Vous": "pourriez",
+            "Ils/Elles": "pourraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais pu",
+            "Tu": "aurais pu",
+            "Il/Elle": "aurait pu",
+            "Nous": "aurions pu",
+            "Vous": "auriez pu",
+            "Ils/Elles": "auraient pu"
+        }
+    },
+    "savoir": {
+        "Pr\u00e9sent": {
+            "Je": "sais",
+            "Tu": "sais",
+            "Il/Elle": "sait",
+            "Nous": "savons",
+            "Vous": "savez",
+            "Ils/Elles": "savent"
+        },
+        "Imparfait": {
+            "Je": "savais",
+            "Tu": "savais",
+            "Il/Elle": "savait",
+            "Nous": "savions",
+            "Vous": "saviez",
+            "Ils/Elles": "savaient"
+        },
+        "Futur": {
+            "Je": "saurai",
+            "Tu": "sauras",
+            "Il/Elle": "saura",
+            "Nous": "saurons",
+            "Vous": "saurez",
+            "Ils/Elles": "sauront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai su",
+            "Tu": "as su",
+            "Il/Elle": "a su",
+            "Nous": "avons su",
+            "Vous": "avez su",
+            "Ils/Elles": "ont su"
+        },
+        "Plus que Parfait": {
+            "Je": "avais su",
+            "Tu": "avais su",
+            "Il/Elle": "avait su",
+            "Nous": "avions su",
+            "Vous": "aviez su",
+            "Ils/Elles": "avaient su"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai su",
+            "Tu": "auras su",
+            "Il/Elle": "aura su",
+            "Nous": "aurons su",
+            "Vous": "aurez su",
+            "Ils/Elles": "auront su"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "sache",
+            "Tu": "saches",
+            "Il/Elle": "sache",
+            "Nous": "sachions",
+            "Vous": "sachiez",
+            "Ils/Elles": "sachent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie su",
+            "Tu": "aies su",
+            "Il/Elle": "ait su",
+            "Nous": "ayons su",
+            "Vous": "ayez su",
+            "Ils/Elles": "aient su"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "saurais",
+            "Tu": "saurais",
+            "Il/Elle": "saurait",
+            "Nous": "saurions",
+            "Vous": "sauriez",
+            "Ils/Elles": "sauraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais su",
+            "Tu": "aurais su",
+            "Il/Elle": "aurait su",
+            "Nous": "aurions su",
+            "Vous": "auriez su",
+            "Ils/Elles": "auraient su"
+        }
+    },
+    "voir": {
+        "Pr\u00e9sent": {
+            "Je": "vois",
+            "Tu": "vois",
+            "Il/Elle": "voit",
+            "Nous": "voyons",
+            "Vous": "voyez",
+            "Ils/Elles": "voient"
+        },
+        "Imparfait": {
+            "Je": "voyais",
+            "Tu": "voyais",
+            "Il/Elle": "voyait",
+            "Nous": "voyions",
+            "Vous": "voyiez",
+            "Ils/Elles": "voyaient"
+        },
+        "Futur": {
+            "Je": "verrai",
+            "Tu": "verras",
+            "Il/Elle": "verra",
+            "Nous": "verrons",
+            "Vous": "verrez",
+            "Ils/Elles": "verront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai vu",
+            "Tu": "as vu",
+            "Il/Elle": "a vu",
+            "Nous": "avons vu",
+            "Vous": "avez vu",
+            "Ils/Elles": "ont vu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais vu",
+            "Tu": "avais vu",
+            "Il/Elle": "avait vu",
+            "Nous": "avions vu",
+            "Vous": "aviez vu",
+            "Ils/Elles": "avaient vu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai vu",
+            "Tu": "auras vu",
+            "Il/Elle": "aura vu",
+            "Nous": "aurons vu",
+            "Vous": "aurez vu",
+            "Ils/Elles": "auront vu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "voie",
+            "Tu": "voies",
+            "Il/Elle": "voie",
+            "Nous": "voyions",
+            "Vous": "voyiez",
+            "Ils/Elles": "voient"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie vu",
+            "Tu": "aies vu",
+            "Il/Elle": "ait vu",
+            "Nous": "ayons vu",
+            "Vous": "ayez vu",
+            "Ils/Elles": "aient vu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "verrais",
+            "Tu": "verrais",
+            "Il/Elle": "verrait",
+            "Nous": "verrions",
+            "Vous": "verriez",
+            "Ils/Elles": "verraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais vu",
+            "Tu": "aurais vu",
+            "Il/Elle": "aurait vu",
+            "Nous": "aurions vu",
+            "Vous": "auriez vu",
+            "Ils/Elles": "auraient vu"
+        }
+    },
+    "vouloir": {
+        "Pr\u00e9sent": {
+            "Je": "veux",
+            "Tu": "veux",
+            "Il/Elle": "veut",
+            "Nous": "voulons",
+            "Vous": "voulez",
+            "Ils/Elles": "veulent"
+        },
+        "Imparfait": {
+            "Je": "voulais",
+            "Tu": "voulais",
+            "Il/Elle": "voulait",
+            "Nous": "voulions",
+            "Vous": "vouliez",
+            "Ils/Elles": "voulaient"
+        },
+        "Futur": {
+            "Je": "voudrai",
+            "Tu": "voudras",
+            "Il/Elle": "voudra",
+            "Nous": "voudrons",
+            "Vous": "voudrez",
+            "Ils/Elles": "voudront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai voulu",
+            "Tu": "as voulu",
+            "Il/Elle": "a voulu",
+            "Nous": "avons voulu",
+            "Vous": "avez voulu",
+            "Ils/Elles": "ont voulu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais voulu",
+            "Tu": "avais voulu",
+            "Il/Elle": "avait voulu",
+            "Nous": "avions voulu",
+            "Vous": "aviez voulu",
+            "Ils/Elles": "avaient voulu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai voulu",
+            "Tu": "auras voulu",
+            "Il/Elle": "aura voulu",
+            "Nous": "aurons voulu",
+            "Vous": "aurez voulu",
+            "Ils/Elles": "auront voulu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "veuille",
+            "Tu": "veuilles",
+            "Il/Elle": "veuille",
+            "Nous": "voulions",
+            "Vous": "vouliez",
+            "Ils/Elles": "veuillent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie voulu",
+            "Tu": "aies voulu",
+            "Il/Elle": "ait voulu",
+            "Nous": "ayons voulu",
+            "Vous": "ayez voulu",
+            "Ils/Elles": "aient voulu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "voudrais",
+            "Tu": "voudrais",
+            "Il/Elle": "voudrait",
+            "Nous": "voudrions",
+            "Vous": "voudriez",
+            "Ils/Elles": "voudraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais voulu",
+            "Tu": "aurais voulu",
+            "Il/Elle": "aurait voulu",
+            "Nous": "aurions voulu",
+            "Vous": "auriez voulu",
+            "Ils/Elles": "auraient voulu"
+        }
+    },
+    "prendre": {
+        "Pr\u00e9sent": {
+            "Je": "prends",
+            "Tu": "prends",
+            "Il/Elle": "prend",
+            "Nous": "prenons",
+            "Vous": "prenez",
+            "Ils/Elles": "prennent"
+        },
+        "Imparfait": {
+            "Je": "prenais",
+            "Tu": "prenais",
+            "Il/Elle": "prenait",
+            "Nous": "prenions",
+            "Vous": "preniez",
+            "Ils/Elles": "prenaient"
+        },
+        "Futur": {
+            "Je": "prendrai",
+            "Tu": "prendras",
+            "Il/Elle": "prendra",
+            "Nous": "prendrons",
+            "Vous": "prendrez",
+            "Ils/Elles": "prendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai pris",
+            "Tu": "as pris",
+            "Il/Elle": "a pris",
+            "Nous": "avons pris",
+            "Vous": "avez pris",
+            "Ils/Elles": "ont pris"
+        },
+        "Plus que Parfait": {
+            "Je": "avais pris",
+            "Tu": "avais pris",
+            "Il/Elle": "avait pris",
+            "Nous": "avions pris",
+            "Vous": "aviez pris",
+            "Ils/Elles": "avaient pris"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai pris",
+            "Tu": "auras pris",
+            "Il/Elle": "aura pris",
+            "Nous": "aurons pris",
+            "Vous": "aurez pris",
+            "Ils/Elles": "auront pris"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "prenne",
+            "Tu": "prennes",
+            "Il/Elle": "prenne",
+            "Nous": "prenions",
+            "Vous": "preniez",
+            "Ils/Elles": "prennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie pris",
+            "Tu": "aies pris",
+            "Il/Elle": "ait pris",
+            "Nous": "ayons pris",
+            "Vous": "ayez pris",
+            "Ils/Elles": "aient pris"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "prendrais",
+            "Tu": "prendrais",
+            "Il/Elle": "prendrait",
+            "Nous": "prendrions",
+            "Vous": "prendriez",
+            "Ils/Elles": "prendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais pris",
+            "Tu": "aurais pris",
+            "Il/Elle": "aurait pris",
+            "Nous": "aurions pris",
+            "Vous": "auriez pris",
+            "Ils/Elles": "auraient pris"
+        }
+    },
+    "apprendre": {
+        "Pr\u00e9sent": {
+            "Je": "apprends",
+            "Tu": "apprends",
+            "Il/Elle": "apprend",
+            "Nous": "apprenons",
+            "Vous": "apprenez",
+            "Ils/Elles": "apprennent"
+        },
+        "Imparfait": {
+            "Je": "apprenais",
+            "Tu": "apprenais",
+            "Il/Elle": "apprenait",
+            "Nous": "apprenions",
+            "Vous": "appreniez",
+            "Ils/Elles": "apprenaient"
+        },
+        "Futur": {
+            "Je": "apprendrai",
+            "Tu": "apprendras",
+            "Il/Elle": "apprendra",
+            "Nous": "apprendrons",
+            "Vous": "apprendrez",
+            "Ils/Elles": "apprendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai appris",
+            "Tu": "as appris",
+            "Il/Elle": "a appris",
+            "Nous": "avons appris",
+            "Vous": "avez appris",
+            "Ils/Elles": "ont appris"
+        },
+        "Plus que Parfait": {
+            "Je": "avais appris",
+            "Tu": "avais appris",
+            "Il/Elle": "avait appris",
+            "Nous": "avions appris",
+            "Vous": "aviez appris",
+            "Ils/Elles": "avaient appris"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai appris",
+            "Tu": "auras appris",
+            "Il/Elle": "aura appris",
+            "Nous": "aurons appris",
+            "Vous": "aurez appris",
+            "Ils/Elles": "auront appris"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "apprenne",
+            "Tu": "apprennes",
+            "Il/Elle": "apprenne",
+            "Nous": "apprenions",
+            "Vous": "appreniez",
+            "Ils/Elles": "apprennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie appris",
+            "Tu": "aies appris",
+            "Il/Elle": "ait appris",
+            "Nous": "ayons appris",
+            "Vous": "ayez appris",
+            "Ils/Elles": "aient appris"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "apprendrais",
+            "Tu": "apprendrais",
+            "Il/Elle": "apprendrait",
+            "Nous": "apprendrions",
+            "Vous": "apprendriez",
+            "Ils/Elles": "apprendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais appris",
+            "Tu": "aurais appris",
+            "Il/Elle": "aurait appris",
+            "Nous": "aurions appris",
+            "Vous": "auriez appris",
+            "Ils/Elles": "auraient appris"
+        }
+    },
+    "comprendre": {
+        "Pr\u00e9sent": {
+            "Je": "comprends",
+            "Tu": "comprends",
+            "Il/Elle": "comprend",
+            "Nous": "comprenons",
+            "Vous": "comprenez",
+            "Ils/Elles": "comprennent"
+        },
+        "Imparfait": {
+            "Je": "comprenais",
+            "Tu": "comprenais",
+            "Il/Elle": "comprenait",
+            "Nous": "comprenions",
+            "Vous": "compreniez",
+            "Ils/Elles": "comprenaient"
+        },
+        "Futur": {
+            "Je": "comprendrai",
+            "Tu": "comprendras",
+            "Il/Elle": "comprendra",
+            "Nous": "comprendrons",
+            "Vous": "comprendrez",
+            "Ils/Elles": "comprendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai compris",
+            "Tu": "as compris",
+            "Il/Elle": "a compris",
+            "Nous": "avons compris",
+            "Vous": "avez compris",
+            "Ils/Elles": "ont compris"
+        },
+        "Plus que Parfait": {
+            "Je": "avais compris",
+            "Tu": "avais compris",
+            "Il/Elle": "avait compris",
+            "Nous": "avions compris",
+            "Vous": "aviez compris",
+            "Ils/Elles": "avaient compris"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai compris",
+            "Tu": "auras compris",
+            "Il/Elle": "aura compris",
+            "Nous": "aurons compris",
+            "Vous": "aurez compris",
+            "Ils/Elles": "auront compris"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "comprenne",
+            "Tu": "comprennes",
+            "Il/Elle": "comprenne",
+            "Nous": "comprenions",
+            "Vous": "compreniez",
+            "Ils/Elles": "comprennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie compris",
+            "Tu": "aies compris",
+            "Il/Elle": "ait compris",
+            "Nous": "ayons compris",
+            "Vous": "ayez compris",
+            "Ils/Elles": "aient compris"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "comprendrais",
+            "Tu": "comprendrais",
+            "Il/Elle": "comprendrait",
+            "Nous": "comprendrions",
+            "Vous": "comprendriez",
+            "Ils/Elles": "comprendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais compris",
+            "Tu": "aurais compris",
+            "Il/Elle": "aurait compris",
+            "Nous": "aurions compris",
+            "Vous": "auriez compris",
+            "Ils/Elles": "auraient compris"
+        }
+    },
+    "mettre": {
+        "Pr\u00e9sent": {
+            "Je": "mets",
+            "Tu": "mets",
+            "Il/Elle": "met",
+            "Nous": "mettons",
+            "Vous": "mettez",
+            "Ils/Elles": "mettent"
+        },
+        "Imparfait": {
+            "Je": "mettais",
+            "Tu": "mettais",
+            "Il/Elle": "mettait",
+            "Nous": "mettions",
+            "Vous": "mettiez",
+            "Ils/Elles": "mettaient"
+        },
+        "Futur": {
+            "Je": "mettrai",
+            "Tu": "mettras",
+            "Il/Elle": "mettra",
+            "Nous": "mettrons",
+            "Vous": "mettrez",
+            "Ils/Elles": "mettront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai mis",
+            "Tu": "as mis",
+            "Il/Elle": "a mis",
+            "Nous": "avons mis",
+            "Vous": "avez mis",
+            "Ils/Elles": "ont mis"
+        },
+        "Plus que Parfait": {
+            "Je": "avais mis",
+            "Tu": "avais mis",
+            "Il/Elle": "avait mis",
+            "Nous": "avions mis",
+            "Vous": "aviez mis",
+            "Ils/Elles": "avaient mis"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai mis",
+            "Tu": "auras mis",
+            "Il/Elle": "aura mis",
+            "Nous": "aurons mis",
+            "Vous": "aurez mis",
+            "Ils/Elles": "auront mis"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "mette",
+            "Tu": "mettes",
+            "Il/Elle": "mette",
+            "Nous": "mettions",
+            "Vous": "mettiez",
+            "Ils/Elles": "mettent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie mis",
+            "Tu": "aies mis",
+            "Il/Elle": "ait mis",
+            "Nous": "ayons mis",
+            "Vous": "ayez mis",
+            "Ils/Elles": "aient mis"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "mettrais",
+            "Tu": "mettrais",
+            "Il/Elle": "mettrait",
+            "Nous": "mettrions",
+            "Vous": "mettriez",
+            "Ils/Elles": "mettraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais mis",
+            "Tu": "aurais mis",
+            "Il/Elle": "aurait mis",
+            "Nous": "aurions mis",
+            "Vous": "auriez mis",
+            "Ils/Elles": "auraient mis"
+        }
+    },
+    "permettre": {
+        "Pr\u00e9sent": {
+            "Je": "permets",
+            "Tu": "permets",
+            "Il/Elle": "permet",
+            "Nous": "permettons",
+            "Vous": "permettez",
+            "Ils/Elles": "permettent"
+        },
+        "Imparfait": {
+            "Je": "permettais",
+            "Tu": "permettais",
+            "Il/Elle": "permettait",
+            "Nous": "permettions",
+            "Vous": "permettiez",
+            "Ils/Elles": "permettaient"
+        },
+        "Futur": {
+            "Je": "permettrai",
+            "Tu": "permettras",
+            "Il/Elle": "permettra",
+            "Nous": "permettrons",
+            "Vous": "permettrez",
+            "Ils/Elles": "permettront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai permis",
+            "Tu": "as permis",
+            "Il/Elle": "a permis",
+            "Nous": "avons permis",
+            "Vous": "avez permis",
+            "Ils/Elles": "ont permis"
+        },
+        "Plus que Parfait": {
+            "Je": "avais permis",
+            "Tu": "avais permis",
+            "Il/Elle": "avait permis",
+            "Nous": "avions permis",
+            "Vous": "aviez permis",
+            "Ils/Elles": "avaient permis"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai permis",
+            "Tu": "auras permis",
+            "Il/Elle": "aura permis",
+            "Nous": "aurons permis",
+            "Vous": "aurez permis",
+            "Ils/Elles": "auront permis"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "permette",
+            "Tu": "permettes",
+            "Il/Elle": "permette",
+            "Nous": "permettions",
+            "Vous": "permettiez",
+            "Ils/Elles": "permettent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie permis",
+            "Tu": "aies permis",
+            "Il/Elle": "ait permis",
+            "Nous": "ayons permis",
+            "Vous": "ayez permis",
+            "Ils/Elles": "aient permis"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "permettrais",
+            "Tu": "permettrais",
+            "Il/Elle": "permettrait",
+            "Nous": "permettrions",
+            "Vous": "permettriez",
+            "Ils/Elles": "permettraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais permis",
+            "Tu": "aurais permis",
+            "Il/Elle": "aurait permis",
+            "Nous": "aurions permis",
+            "Vous": "auriez permis",
+            "Ils/Elles": "auraient permis"
+        }
+    },
+    "promettre": {
+        "Pr\u00e9sent": {
+            "Je": "promets",
+            "Tu": "promets",
+            "Il/Elle": "promet",
+            "Nous": "promettons",
+            "Vous": "promettez",
+            "Ils/Elles": "promettent"
+        },
+        "Imparfait": {
+            "Je": "promettais",
+            "Tu": "promettais",
+            "Il/Elle": "promettait",
+            "Nous": "promettions",
+            "Vous": "promettiez",
+            "Ils/Elles": "promettaient"
+        },
+        "Futur": {
+            "Je": "promettrai",
+            "Tu": "promettras",
+            "Il/Elle": "promettra",
+            "Nous": "promettrons",
+            "Vous": "promettrez",
+            "Ils/Elles": "promettront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai promis",
+            "Tu": "as promis",
+            "Il/Elle": "a promis",
+            "Nous": "avons promis",
+            "Vous": "avez promis",
+            "Ils/Elles": "ont promis"
+        },
+        "Plus que Parfait": {
+            "Je": "avais promis",
+            "Tu": "avais promis",
+            "Il/Elle": "avait promis",
+            "Nous": "avions promis",
+            "Vous": "aviez promis",
+            "Ils/Elles": "avaient promis"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai promis",
+            "Tu": "auras promis",
+            "Il/Elle": "aura promis",
+            "Nous": "aurons promis",
+            "Vous": "aurez promis",
+            "Ils/Elles": "auront promis"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "promette",
+            "Tu": "promettes",
+            "Il/Elle": "promette",
+            "Nous": "promettions",
+            "Vous": "promettiez",
+            "Ils/Elles": "promettent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie promis",
+            "Tu": "aies promis",
+            "Il/Elle": "ait promis",
+            "Nous": "ayons promis",
+            "Vous": "ayez promis",
+            "Ils/Elles": "aient promis"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "promettrais",
+            "Tu": "promettrais",
+            "Il/Elle": "promettrait",
+            "Nous": "promettrions",
+            "Vous": "promettriez",
+            "Ils/Elles": "promettraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais promis",
+            "Tu": "aurais promis",
+            "Il/Elle": "aurait promis",
+            "Nous": "aurions promis",
+            "Vous": "auriez promis",
+            "Ils/Elles": "auraient promis"
+        }
+    },
+    "soumettre": {
+        "Pr\u00e9sent": {
+            "Je": "soumets",
+            "Tu": "soumets",
+            "Il/Elle": "soumet",
+            "Nous": "soumettons",
+            "Vous": "soumettez",
+            "Ils/Elles": "soumettent"
+        },
+        "Imparfait": {
+            "Je": "soumettais",
+            "Tu": "soumettais",
+            "Il/Elle": "soumettait",
+            "Nous": "soumettions",
+            "Vous": "soumettiez",
+            "Ils/Elles": "soumettaient"
+        },
+        "Futur": {
+            "Je": "soumettrai",
+            "Tu": "soumettras",
+            "Il/Elle": "soumettra",
+            "Nous": "soumettrons",
+            "Vous": "soumettrez",
+            "Ils/Elles": "soumettront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai soumis",
+            "Tu": "as soumis",
+            "Il/Elle": "a soumis",
+            "Nous": "avons soumis",
+            "Vous": "avez soumis",
+            "Ils/Elles": "ont soumis"
+        },
+        "Plus que Parfait": {
+            "Je": "avais soumis",
+            "Tu": "avais soumis",
+            "Il/Elle": "avait soumis",
+            "Nous": "avions soumis",
+            "Vous": "aviez soumis",
+            "Ils/Elles": "avaient soumis"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai soumis",
+            "Tu": "auras soumis",
+            "Il/Elle": "aura soumis",
+            "Nous": "aurons soumis",
+            "Vous": "aurez soumis",
+            "Ils/Elles": "auront soumis"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "soumette",
+            "Tu": "soumettes",
+            "Il/Elle": "soumette",
+            "Nous": "soumettions",
+            "Vous": "soumettiez",
+            "Ils/Elles": "soumettent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie soumis",
+            "Tu": "aies soumis",
+            "Il/Elle": "ait soumis",
+            "Nous": "ayons soumis",
+            "Vous": "ayez soumis",
+            "Ils/Elles": "aient soumis"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "soumettrais",
+            "Tu": "soumettrais",
+            "Il/Elle": "soumettrait",
+            "Nous": "soumettrions",
+            "Vous": "soumettriez",
+            "Ils/Elles": "soumettraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais soumis",
+            "Tu": "aurais soumis",
+            "Il/Elle": "aurait soumis",
+            "Nous": "aurions soumis",
+            "Vous": "auriez soumis",
+            "Ils/Elles": "auraient soumis"
+        }
+    },
+    "transmettre": {
+        "Pr\u00e9sent": {
+            "Je": "transmets",
+            "Tu": "transmets",
+            "Il/Elle": "transmet",
+            "Nous": "transmettons",
+            "Vous": "transmettez",
+            "Ils/Elles": "transmettent"
+        },
+        "Imparfait": {
+            "Je": "transmettais",
+            "Tu": "transmettais",
+            "Il/Elle": "transmettait",
+            "Nous": "transmettions",
+            "Vous": "transmettiez",
+            "Ils/Elles": "transmettaient"
+        },
+        "Futur": {
+            "Je": "transmettrai",
+            "Tu": "transmettras",
+            "Il/Elle": "transmettra",
+            "Nous": "transmettrons",
+            "Vous": "transmettrez",
+            "Ils/Elles": "transmettront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai transmis",
+            "Tu": "as transmis",
+            "Il/Elle": "a transmis",
+            "Nous": "avons transmis",
+            "Vous": "avez transmis",
+            "Ils/Elles": "ont transmis"
+        },
+        "Plus que Parfait": {
+            "Je": "avais transmis",
+            "Tu": "avais transmis",
+            "Il/Elle": "avait transmis",
+            "Nous": "avions transmis",
+            "Vous": "aviez transmis",
+            "Ils/Elles": "avaient transmis"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai transmis",
+            "Tu": "auras transmis",
+            "Il/Elle": "aura transmis",
+            "Nous": "aurons transmis",
+            "Vous": "aurez transmis",
+            "Ils/Elles": "auront transmis"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "transmette",
+            "Tu": "transmettes",
+            "Il/Elle": "transmette",
+            "Nous": "transmettions",
+            "Vous": "transmettiez",
+            "Ils/Elles": "transmettent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie transmis",
+            "Tu": "aies transmis",
+            "Il/Elle": "ait transmis",
+            "Nous": "ayons transmis",
+            "Vous": "ayez transmis",
+            "Ils/Elles": "aient transmis"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "transmettrais",
+            "Tu": "transmettrais",
+            "Il/Elle": "transmettrait",
+            "Nous": "transmettrions",
+            "Vous": "transmettriez",
+            "Ils/Elles": "transmettraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais transmis",
+            "Tu": "aurais transmis",
+            "Il/Elle": "aurait transmis",
+            "Nous": "aurions transmis",
+            "Vous": "auriez transmis",
+            "Ils/Elles": "auraient transmis"
+        }
+    },
+    "contenir": {
+        "Pr\u00e9sent": {
+            "Je": "contiens",
+            "Tu": "contiens",
+            "Il/Elle": "contient",
+            "Nous": "contenons",
+            "Vous": "contenez",
+            "Ils/Elles": "contiennent"
+        },
+        "Imparfait": {
+            "Je": "contenais",
+            "Tu": "contenais",
+            "Il/Elle": "contenait",
+            "Nous": "contenions",
+            "Vous": "conteniez",
+            "Ils/Elles": "contenaient"
+        },
+        "Futur": {
+            "Je": "contiendrai",
+            "Tu": "contiendras",
+            "Il/Elle": "contiendra",
+            "Nous": "contiendrons",
+            "Vous": "contiendrez",
+            "Ils/Elles": "contiendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai contenu",
+            "Tu": "as contenu",
+            "Il/Elle": "a contenu",
+            "Nous": "avons contenu",
+            "Vous": "avez contenu",
+            "Ils/Elles": "ont contenu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais contenu",
+            "Tu": "avais contenu",
+            "Il/Elle": "avait contenu",
+            "Nous": "avions contenu",
+            "Vous": "aviez contenu",
+            "Ils/Elles": "avaient contenu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai contenu",
+            "Tu": "auras contenu",
+            "Il/Elle": "aura contenu",
+            "Nous": "aurons contenu",
+            "Vous": "aurez contenu",
+            "Ils/Elles": "auront contenu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "contienne",
+            "Tu": "contiennes",
+            "Il/Elle": "contienne",
+            "Nous": "contenions",
+            "Vous": "conteniez",
+            "Ils/Elles": "contiennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie contenu",
+            "Tu": "aies contenu",
+            "Il/Elle": "ait contenu",
+            "Nous": "ayons contenu",
+            "Vous": "ayez contenu",
+            "Ils/Elles": "aient contenu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "contiendrais",
+            "Tu": "contiendrais",
+            "Il/Elle": "contiendrait",
+            "Nous": "contiendrions",
+            "Vous": "contiendriez",
+            "Ils/Elles": "contiendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais contenu",
+            "Tu": "aurais contenu",
+            "Il/Elle": "aurait contenu",
+            "Nous": "aurions contenu",
+            "Vous": "auriez contenu",
+            "Ils/Elles": "auraient contenu"
+        }
+    },
+    "devenir": {
+        "Pr\u00e9sent": {
+            "Je": "deviens",
+            "Tu": "deviens",
+            "Il/Elle": "devient",
+            "Nous": "devenons",
+            "Vous": "devenez",
+            "Ils/Elles": "deviennent"
+        },
+        "Imparfait": {
+            "Je": "devenais",
+            "Tu": "devenais",
+            "Il/Elle": "devenait",
+            "Nous": "devenions",
+            "Vous": "deveniez",
+            "Ils/Elles": "devenaient"
+        },
+        "Futur": {
+            "Je": "deviendrai",
+            "Tu": "deviendras",
+            "Il/Elle": "deviendra",
+            "Nous": "deviendrons",
+            "Vous": "deviendrez",
+            "Ils/Elles": "deviendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "suis devenu",
+            "Tu": "es devenu",
+            "Il/Elle": "est devenu(e)",
+            "Nous": "sommes devenus",
+            "Vous": "\u00eates devenus",
+            "Ils/Elles": "sont devenu(e)s"
+        },
+        "Plus que Parfait": {
+            "Je": "\u00e9tais devenu",
+            "Tu": "\u00e9tais devenu",
+            "Il/Elle": "\u00e9tait devenu(e)",
+            "Nous": "\u00e9tions devenus",
+            "Vous": "\u00e9tiez devenus",
+            "Ils/Elles": "\u00e9taient devenu(e)s"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "serai devenu",
+            "Tu": "seras devenu",
+            "Il/Elle": "sera devenu(e)",
+            "Nous": "serons devenus",
+            "Vous": "serez devenus",
+            "Ils/Elles": "seront devenu(e)s"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "devienne",
+            "Tu": "deviennes",
+            "Il/Elle": "devienne",
+            "Nous": "devenions",
+            "Vous": "deveniez",
+            "Ils/Elles": "deviennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "sois devenu",
+            "Tu": "sois devenu",
+            "Il/Elle": "soit devenu(e)",
+            "Nous": "soyons devenus",
+            "Vous": "soyez devenus",
+            "Ils/Elles": "soient devenu(e)s"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "deviendrais",
+            "Tu": "deviendrais",
+            "Il/Elle": "deviendrait",
+            "Nous": "deviendrions",
+            "Vous": "deviendriez",
+            "Ils/Elles": "deviendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "serais devenu",
+            "Tu": "serais devenu",
+            "Il/Elle": "serait devenu(e)",
+            "Nous": "serions devenus",
+            "Vous": "seriez devenus",
+            "Ils/Elles": "seraient devenu(e)s"
+        }
+    },
+    "maintenir": {
+        "Pr\u00e9sent": {
+            "Je": "maintiens",
+            "Tu": "maintiens",
+            "Il/Elle": "maintient",
+            "Nous": "maintenons",
+            "Vous": "maintenez",
+            "Ils/Elles": "maintiennent"
+        },
+        "Imparfait": {
+            "Je": "maintenais",
+            "Tu": "maintenais",
+            "Il/Elle": "maintenait",
+            "Nous": "maintenions",
+            "Vous": "mainteniez",
+            "Ils/Elles": "maintenaient"
+        },
+        "Futur": {
+            "Je": "maintiendrai",
+            "Tu": "maintiendras",
+            "Il/Elle": "maintiendra",
+            "Nous": "maintiendrons",
+            "Vous": "maintiendrez",
+            "Ils/Elles": "maintiendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai maintenu",
+            "Tu": "as maintenu",
+            "Il/Elle": "a maintenu",
+            "Nous": "avons maintenu",
+            "Vous": "avez maintenu",
+            "Ils/Elles": "ont maintenu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais maintenu",
+            "Tu": "avais maintenu",
+            "Il/Elle": "avait maintenu",
+            "Nous": "avions maintenu",
+            "Vous": "aviez maintenu",
+            "Ils/Elles": "avaient maintenu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai maintenu",
+            "Tu": "auras maintenu",
+            "Il/Elle": "aura maintenu",
+            "Nous": "aurons maintenu",
+            "Vous": "aurez maintenu",
+            "Ils/Elles": "auront maintenu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "maintienne",
+            "Tu": "maintiennes",
+            "Il/Elle": "maintienne",
+            "Nous": "maintenions",
+            "Vous": "mainteniez",
+            "Ils/Elles": "maintiennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie maintenu",
+            "Tu": "aies maintenu",
+            "Il/Elle": "ait maintenu",
+            "Nous": "ayons maintenu",
+            "Vous": "ayez maintenu",
+            "Ils/Elles": "aient maintenu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "maintiendrais",
+            "Tu": "maintiendrais",
+            "Il/Elle": "maintiendrait",
+            "Nous": "maintiendrions",
+            "Vous": "maintiendriez",
+            "Ils/Elles": "maintiendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais maintenu",
+            "Tu": "aurais maintenu",
+            "Il/Elle": "aurait maintenu",
+            "Nous": "aurions maintenu",
+            "Vous": "auriez maintenu",
+            "Ils/Elles": "auraient maintenu"
+        }
+    },
+    "obtenir": {
+        "Pr\u00e9sent": {
+            "Je": "obtiens",
+            "Tu": "obtiens",
+            "Il/Elle": "obtient",
+            "Nous": "obtenons",
+            "Vous": "obtenez",
+            "Ils/Elles": "obtiennent"
+        },
+        "Imparfait": {
+            "Je": "obtenais",
+            "Tu": "obtenais",
+            "Il/Elle": "obtenait",
+            "Nous": "obtenions",
+            "Vous": "obteniez",
+            "Ils/Elles": "obtenaient"
+        },
+        "Futur": {
+            "Je": "obtiendrai",
+            "Tu": "obtiendras",
+            "Il/Elle": "obtiendra",
+            "Nous": "obtiendrons",
+            "Vous": "obtiendrez",
+            "Ils/Elles": "obtiendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai obtenu",
+            "Tu": "as obtenu",
+            "Il/Elle": "a obtenu",
+            "Nous": "avons obtenu",
+            "Vous": "avez obtenu",
+            "Ils/Elles": "ont obtenu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais obtenu",
+            "Tu": "avais obtenu",
+            "Il/Elle": "avait obtenu",
+            "Nous": "avions obtenu",
+            "Vous": "aviez obtenu",
+            "Ils/Elles": "avaient obtenu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai obtenu",
+            "Tu": "auras obtenu",
+            "Il/Elle": "aura obtenu",
+            "Nous": "aurons obtenu",
+            "Vous": "aurez obtenu",
+            "Ils/Elles": "auront obtenu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "obtienne",
+            "Tu": "obtiennes",
+            "Il/Elle": "obtienne",
+            "Nous": "obtenions",
+            "Vous": "obteniez",
+            "Ils/Elles": "obtiennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie obtenu",
+            "Tu": "aies obtenu",
+            "Il/Elle": "ait obtenu",
+            "Nous": "ayons obtenu",
+            "Vous": "ayez obtenu",
+            "Ils/Elles": "aient obtenu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "obtiendrais",
+            "Tu": "obtiendrais",
+            "Il/Elle": "obtiendrait",
+            "Nous": "obtiendrions",
+            "Vous": "obtiendriez",
+            "Ils/Elles": "obtiendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais obtenu",
+            "Tu": "aurais obtenu",
+            "Il/Elle": "aurait obtenu",
+            "Nous": "aurions obtenu",
+            "Vous": "auriez obtenu",
+            "Ils/Elles": "auraient obtenu"
+        }
+    },
+    "pr\u00e9venir": {
+        "Pr\u00e9sent": {
+            "Je": "pr\u00e9viens",
+            "Tu": "pr\u00e9viens",
+            "Il/Elle": "pr\u00e9vient",
+            "Nous": "pr\u00e9venons",
+            "Vous": "pr\u00e9venez",
+            "Ils/Elles": "pr\u00e9viennent"
+        },
+        "Imparfait": {
+            "Je": "pr\u00e9venais",
+            "Tu": "pr\u00e9venais",
+            "Il/Elle": "pr\u00e9venait",
+            "Nous": "pr\u00e9venions",
+            "Vous": "pr\u00e9veniez",
+            "Ils/Elles": "pr\u00e9venaient"
+        },
+        "Futur": {
+            "Je": "pr\u00e9viendrai",
+            "Tu": "pr\u00e9viendras",
+            "Il/Elle": "pr\u00e9viendra",
+            "Nous": "pr\u00e9viendrons",
+            "Vous": "pr\u00e9viendrez",
+            "Ils/Elles": "pr\u00e9viendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai pr\u00e9venu",
+            "Tu": "as pr\u00e9venu",
+            "Il/Elle": "a pr\u00e9venu",
+            "Nous": "avons pr\u00e9venu",
+            "Vous": "avez pr\u00e9venu",
+            "Ils/Elles": "ont pr\u00e9venu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais pr\u00e9venu",
+            "Tu": "avais pr\u00e9venu",
+            "Il/Elle": "avait pr\u00e9venu",
+            "Nous": "avions pr\u00e9venu",
+            "Vous": "aviez pr\u00e9venu",
+            "Ils/Elles": "avaient pr\u00e9venu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai pr\u00e9venu",
+            "Tu": "auras pr\u00e9venu",
+            "Il/Elle": "aura pr\u00e9venu",
+            "Nous": "aurons pr\u00e9venu",
+            "Vous": "aurez pr\u00e9venu",
+            "Ils/Elles": "auront pr\u00e9venu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "pr\u00e9vienne",
+            "Tu": "pr\u00e9viennes",
+            "Il/Elle": "pr\u00e9vienne",
+            "Nous": "pr\u00e9venions",
+            "Vous": "pr\u00e9veniez",
+            "Ils/Elles": "pr\u00e9viennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie pr\u00e9venu",
+            "Tu": "aies pr\u00e9venu",
+            "Il/Elle": "ait pr\u00e9venu",
+            "Nous": "ayons pr\u00e9venu",
+            "Vous": "ayez pr\u00e9venu",
+            "Ils/Elles": "aient pr\u00e9venu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "pr\u00e9viendrais",
+            "Tu": "pr\u00e9viendrais",
+            "Il/Elle": "pr\u00e9viendrait",
+            "Nous": "pr\u00e9viendrions",
+            "Vous": "pr\u00e9viendriez",
+            "Ils/Elles": "pr\u00e9viendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais pr\u00e9venu",
+            "Tu": "aurais pr\u00e9venu",
+            "Il/Elle": "aurait pr\u00e9venu",
+            "Nous": "aurions pr\u00e9venu",
+            "Vous": "auriez pr\u00e9venu",
+            "Ils/Elles": "auraient pr\u00e9venu"
+        }
+    },
+    "soutenir": {
+        "Pr\u00e9sent": {
+            "Je": "soutiens",
+            "Tu": "soutiens",
+            "Il/Elle": "soutient",
+            "Nous": "soutenons",
+            "Vous": "soutenez",
+            "Ils/Elles": "soutiennent"
+        },
+        "Imparfait": {
+            "Je": "soutenais",
+            "Tu": "soutenais",
+            "Il/Elle": "soutenait",
+            "Nous": "soutenions",
+            "Vous": "souteniez",
+            "Ils/Elles": "soutenaient"
+        },
+        "Futur": {
+            "Je": "soutiendrai",
+            "Tu": "soutiendras",
+            "Il/Elle": "soutiendra",
+            "Nous": "soutiendrons",
+            "Vous": "soutiendrez",
+            "Ils/Elles": "soutiendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai soutenu",
+            "Tu": "as soutenu",
+            "Il/Elle": "a soutenu",
+            "Nous": "avons soutenu",
+            "Vous": "avez soutenu",
+            "Ils/Elles": "ont soutenu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais soutenu",
+            "Tu": "avais soutenu",
+            "Il/Elle": "avait soutenu",
+            "Nous": "avions soutenu",
+            "Vous": "aviez soutenu",
+            "Ils/Elles": "avaient soutenu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai soutenu",
+            "Tu": "auras soutenu",
+            "Il/Elle": "aura soutenu",
+            "Nous": "aurons soutenu",
+            "Vous": "aurez soutenu",
+            "Ils/Elles": "auront soutenu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "soutienne",
+            "Tu": "soutiennes",
+            "Il/Elle": "soutienne",
+            "Nous": "soutenions",
+            "Vous": "souteniez",
+            "Ils/Elles": "soutiennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie soutenu",
+            "Tu": "aies soutenu",
+            "Il/Elle": "ait soutenu",
+            "Nous": "ayons soutenu",
+            "Vous": "ayez soutenu",
+            "Ils/Elles": "aient soutenu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "soutiendrais",
+            "Tu": "soutiendrais",
+            "Il/Elle": "soutiendrait",
+            "Nous": "soutiendrions",
+            "Vous": "soutiendriez",
+            "Ils/Elles": "soutiendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais soutenu",
+            "Tu": "aurais soutenu",
+            "Il/Elle": "aurait soutenu",
+            "Nous": "aurions soutenu",
+            "Vous": "auriez soutenu",
+            "Ils/Elles": "auraient soutenu"
+        }
+    },
+    "souvenir": {
+        "Pr\u00e9sent": {
+            "Je": "souviens",
+            "Tu": "souviens",
+            "Il/Elle": "souvient",
+            "Nous": "souvenons",
+            "Vous": "souvenez",
+            "Ils/Elles": "souviennent"
+        },
+        "Imparfait": {
+            "Je": "souvenais",
+            "Tu": "souvenais",
+            "Il/Elle": "souvenait",
+            "Nous": "souvenions",
+            "Vous": "souveniez",
+            "Ils/Elles": "souvenaient"
+        },
+        "Futur": {
+            "Je": "souviendrai",
+            "Tu": "souviendras",
+            "Il/Elle": "souviendra",
+            "Nous": "souviendrons",
+            "Vous": "souviendrez",
+            "Ils/Elles": "souviendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "suis souvenu",
+            "Tu": "es souvenu",
+            "Il/Elle": "est souvenu(e)",
+            "Nous": "sommes souvenus",
+            "Vous": "\u00eates souvenus",
+            "Ils/Elles": "sont souvenu(e)s"
+        },
+        "Plus que Parfait": {
+            "Je": "\u00e9tais souvenu",
+            "Tu": "\u00e9tais souvenu",
+            "Il/Elle": "\u00e9tait souvenu(e)",
+            "Nous": "\u00e9tions souvenus",
+            "Vous": "\u00e9tiez souvenus",
+            "Ils/Elles": "\u00e9taient souvenu(e)s"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "serai souvenu",
+            "Tu": "seras souvenu",
+            "Il/Elle": "sera souvenu(e)",
+            "Nous": "serons souvenus",
+            "Vous": "serez souvenus",
+            "Ils/Elles": "seront souvenu(e)s"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "souvienne",
+            "Tu": "souviennes",
+            "Il/Elle": "souvienne",
+            "Nous": "souvenions",
+            "Vous": "souveniez",
+            "Ils/Elles": "souviennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "sois souvenu",
+            "Tu": "sois souvenu",
+            "Il/Elle": "soit souvenu(e)",
+            "Nous": "soyons souvenus",
+            "Vous": "soyez souvenus",
+            "Ils/Elles": "soient souvenu(e)s"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "souviendrais",
+            "Tu": "souviendrais",
+            "Il/Elle": "souviendrait",
+            "Nous": "souviendrions",
+            "Vous": "souviendriez",
+            "Ils/Elles": "souviendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "serais souvenu",
+            "Tu": "serais souvenu",
+            "Il/Elle": "serait souvenu(e)",
+            "Nous": "serions souvenus",
+            "Vous": "seriez souvenus",
+            "Ils/Elles": "seraient souvenu(e)s"
+        }
+    },
+    "subvenir": {
+        "Pr\u00e9sent": {
+            "Je": "subviens",
+            "Tu": "subviens",
+            "Il/Elle": "subvient",
+            "Nous": "subvenons",
+            "Vous": "subvenez",
+            "Ils/Elles": "subviennent"
+        },
+        "Imparfait": {
+            "Je": "subvenais",
+            "Tu": "subvenais",
+            "Il/Elle": "subvenait",
+            "Nous": "subvenions",
+            "Vous": "subveniez",
+            "Ils/Elles": "subvenaient"
+        },
+        "Futur": {
+            "Je": "subviendrai",
+            "Tu": "subviendras",
+            "Il/Elle": "subviendra",
+            "Nous": "subviendrons",
+            "Vous": "subviendrez",
+            "Ils/Elles": "subviendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai subvenu",
+            "Tu": "as subvenu",
+            "Il/Elle": "a subvenu",
+            "Nous": "avons subvenu",
+            "Vous": "avez subvenu",
+            "Ils/Elles": "ont subvenu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais subvenu",
+            "Tu": "avais subvenu",
+            "Il/Elle": "avait subvenu",
+            "Nous": "avions subvenu",
+            "Vous": "aviez subvenu",
+            "Ils/Elles": "avaient subvenu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai subvenu",
+            "Tu": "auras subvenu",
+            "Il/Elle": "aura subvenu",
+            "Nous": "aurons subvenu",
+            "Vous": "aurez subvenu",
+            "Ils/Elles": "auront subvenu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "subvienne",
+            "Tu": "subviennes",
+            "Il/Elle": "subvienne",
+            "Nous": "subvenions",
+            "Vous": "subveniez",
+            "Ils/Elles": "subviennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie subvenu",
+            "Tu": "aies subvenu",
+            "Il/Elle": "ait subvenu",
+            "Nous": "ayons subvenu",
+            "Vous": "ayez subvenu",
+            "Ils/Elles": "aient subvenu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "subviendrais",
+            "Tu": "subviendrais",
+            "Il/Elle": "subviendrait",
+            "Nous": "subviendrions",
+            "Vous": "subviendriez",
+            "Ils/Elles": "subviendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais subvenu",
+            "Tu": "aurais subvenu",
+            "Il/Elle": "aurait subvenu",
+            "Nous": "aurions subvenu",
+            "Vous": "auriez subvenu",
+            "Ils/Elles": "auraient subvenu"
+        }
+    },
+    "tenir": {
+        "Pr\u00e9sent": {
+            "Je": "tiens",
+            "Tu": "tiens",
+            "Il/Elle": "tient",
+            "Nous": "tenons",
+            "Vous": "tenez",
+            "Ils/Elles": "tiennent"
+        },
+        "Imparfait": {
+            "Je": "tenais",
+            "Tu": "tenais",
+            "Il/Elle": "tenait",
+            "Nous": "tenions",
+            "Vous": "teniez",
+            "Ils/Elles": "tenaient"
+        },
+        "Futur": {
+            "Je": "tiendrai",
+            "Tu": "tiendras",
+            "Il/Elle": "tiendra",
+            "Nous": "tiendrons",
+            "Vous": "tiendrez",
+            "Ils/Elles": "tiendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai tenu",
+            "Tu": "as tenu",
+            "Il/Elle": "a tenu",
+            "Nous": "avons tenu",
+            "Vous": "avez tenu",
+            "Ils/Elles": "ont tenu"
+        },
+        "Plus que Parfait": {
+            "Je": "avais tenu",
+            "Tu": "avais tenu",
+            "Il/Elle": "avait tenu",
+            "Nous": "avions tenu",
+            "Vous": "aviez tenu",
+            "Ils/Elles": "avaient tenu"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai tenu",
+            "Tu": "auras tenu",
+            "Il/Elle": "aura tenu",
+            "Nous": "aurons tenu",
+            "Vous": "aurez tenu",
+            "Ils/Elles": "auront tenu"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "tienne",
+            "Tu": "tiennes",
+            "Il/Elle": "tienne",
+            "Nous": "tenions",
+            "Vous": "teniez",
+            "Ils/Elles": "tiennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie tenu",
+            "Tu": "aies tenu",
+            "Il/Elle": "ait tenu",
+            "Nous": "ayons tenu",
+            "Vous": "ayez tenu",
+            "Ils/Elles": "aient tenu"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "tiendrais",
+            "Tu": "tiendrais",
+            "Il/Elle": "tiendrait",
+            "Nous": "tiendrions",
+            "Vous": "tiendriez",
+            "Ils/Elles": "tiendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais tenu",
+            "Tu": "aurais tenu",
+            "Il/Elle": "aurait tenu",
+            "Nous": "aurions tenu",
+            "Vous": "auriez tenu",
+            "Ils/Elles": "auraient tenu"
+        }
+    },
+    "venir": {
+        "Pr\u00e9sent": {
+            "Je": "viens",
+            "Tu": "viens",
+            "Il/Elle": "vient",
+            "Nous": "venons",
+            "Vous": "venez",
+            "Ils/Elles": "viennent"
+        },
+        "Imparfait": {
+            "Je": "venais",
+            "Tu": "venais",
+            "Il/Elle": "venait",
+            "Nous": "venions",
+            "Vous": "veniez",
+            "Ils/Elles": "venaient"
+        },
+        "Futur": {
+            "Je": "viendrai",
+            "Tu": "viendras",
+            "Il/Elle": "viendra",
+            "Nous": "viendrons",
+            "Vous": "viendrez",
+            "Ils/Elles": "viendront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "suis venu",
+            "Tu": "es venu",
+            "Il/Elle": "est venu(e)",
+            "Nous": "sommes venus",
+            "Vous": "\u00eates venus",
+            "Ils/Elles": "sont venu(e)s"
+        },
+        "Plus que Parfait": {
+            "Je": "\u00e9tais venu",
+            "Tu": "\u00e9tais venu",
+            "Il/Elle": "\u00e9tait venu(e)",
+            "Nous": "\u00e9tions venus",
+            "Vous": "\u00e9tiez venus",
+            "Ils/Elles": "\u00e9taient venu(e)s"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "serai venu",
+            "Tu": "seras venu",
+            "Il/Elle": "sera venu(e)",
+            "Nous": "serons venus",
+            "Vous": "serez venus",
+            "Ils/Elles": "seront venu(e)s"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "vienne",
+            "Tu": "viennes",
+            "Il/Elle": "vienne",
+            "Nous": "venions",
+            "Vous": "veniez",
+            "Ils/Elles": "viennent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "sois venu",
+            "Tu": "sois venu",
+            "Il/Elle": "soit venu(e)",
+            "Nous": "soyons venus",
+            "Vous": "soyez venus",
+            "Ils/Elles": "soient venu(e)s"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "viendrais",
+            "Tu": "viendrais",
+            "Il/Elle": "viendrait",
+            "Nous": "viendrions",
+            "Vous": "viendriez",
+            "Ils/Elles": "viendraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "serais venu",
+            "Tu": "serais venu",
+            "Il/Elle": "serait venu(e)",
+            "Nous": "serions venus",
+            "Vous": "seriez venus",
+            "Ils/Elles": "seraient venu(e)s"
+        }
+    },
+    "changer": {
+        "Pr\u00e9sent": {
+            "Je": "change",
+            "Tu": "changes",
+            "Il/Elle": "change",
+            "Nous": "changeons",
+            "Vous": "changez",
+            "Ils/Elles": "changent"
+        },
+        "Imparfait": {
+            "Je": "changeais",
+            "Tu": "changeais",
+            "Il/Elle": "changeait",
+            "Nous": "changions",
+            "Vous": "changiez",
+            "Ils/Elles": "changeaient"
+        },
+        "Futur": {
+            "Je": "changerai",
+            "Tu": "changeras",
+            "Il/Elle": "changera",
+            "Nous": "changerons",
+            "Vous": "changerez",
+            "Ils/Elles": "changeront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "suis chang\u00e9",
+            "Tu": "es chang\u00e9",
+            "Il/Elle": "est chang\u00e9(e)",
+            "Nous": "sommes chang\u00e9s",
+            "Vous": "\u00eates chang\u00e9s",
+            "Ils/Elles": "sont chang\u00e9(e)s"
+        },
+        "Plus que Parfait": {
+            "Je": "\u00e9tais chang\u00e9",
+            "Tu": "\u00e9tais chang\u00e9",
+            "Il/Elle": "\u00e9tait chang\u00e9(e)",
+            "Nous": "\u00e9tions chang\u00e9s",
+            "Vous": "\u00e9tiez chang\u00e9s",
+            "Ils/Elles": "\u00e9taient chang\u00e9(e)s"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "serai chang\u00e9",
+            "Tu": "seras chang\u00e9",
+            "Il/Elle": "sera chang\u00e9(e)",
+            "Nous": "serons chang\u00e9s",
+            "Vous": "serez chang\u00e9s",
+            "Ils/Elles": "seront chang\u00e9(e)s"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "change",
+            "Tu": "changes",
+            "Il/Elle": "change",
+            "Nous": "changions",
+            "Vous": "changiez",
+            "Ils/Elles": "changent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "sois chang\u00e9",
+            "Tu": "sois chang\u00e9",
+            "Il/Elle": "soit chang\u00e9(e)",
+            "Nous": "soyons chang\u00e9s",
+            "Vous": "soyez chang\u00e9s",
+            "Ils/Elles": "soient chang\u00e9(e)s"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "changerais",
+            "Tu": "changerais",
+            "Il/Elle": "changerait",
+            "Nous": "changerions",
+            "Vous": "changeriez",
+            "Ils/Elles": "changeraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "serais chang\u00e9",
+            "Tu": "serais chang\u00e9",
+            "Il/Elle": "serait chang\u00e9(e)",
+            "Nous": "serions chang\u00e9s",
+            "Vous": "seriez chang\u00e9s",
+            "Ils/Elles": "seraient chang\u00e9(e)s"
+        }
+    },
+    "corriger": {
+        "Pr\u00e9sent": {
+            "Je": "corrige",
+            "Tu": "corriges",
+            "Il/Elle": "corrige",
+            "Nous": "corrigeons",
+            "Vous": "corrigez",
+            "Ils/Elles": "corrigent"
+        },
+        "Imparfait": {
+            "Je": "corrigeais",
+            "Tu": "corrigeais",
+            "Il/Elle": "corrigeait",
+            "Nous": "corrigions",
+            "Vous": "corrigiez",
+            "Ils/Elles": "corrigeaient"
+        },
+        "Futur": {
+            "Je": "corrigerai",
+            "Tu": "corrigeras",
+            "Il/Elle": "corrigera",
+            "Nous": "corrigerons",
+            "Vous": "corrigerez",
+            "Ils/Elles": "corrigeront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai corrig\u00e9",
+            "Tu": "as corrig\u00e9",
+            "Il/Elle": "a corrig\u00e9",
+            "Nous": "avons corrig\u00e9",
+            "Vous": "avez corrig\u00e9",
+            "Ils/Elles": "ont corrig\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais corrig\u00e9",
+            "Tu": "avais corrig\u00e9",
+            "Il/Elle": "avait corrig\u00e9",
+            "Nous": "avions corrig\u00e9",
+            "Vous": "aviez corrig\u00e9",
+            "Ils/Elles": "avaient corrig\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai corrig\u00e9",
+            "Tu": "auras corrig\u00e9",
+            "Il/Elle": "aura corrig\u00e9",
+            "Nous": "aurons corrig\u00e9",
+            "Vous": "aurez corrig\u00e9",
+            "Ils/Elles": "auront corrig\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "corrige",
+            "Tu": "corriges",
+            "Il/Elle": "corrige",
+            "Nous": "corrigions",
+            "Vous": "corrigiez",
+            "Ils/Elles": "corrigent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie corrig\u00e9",
+            "Tu": "aies corrig\u00e9",
+            "Il/Elle": "ait corrig\u00e9",
+            "Nous": "ayons corrig\u00e9",
+            "Vous": "ayez corrig\u00e9",
+            "Ils/Elles": "aient corrig\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "corrigerais",
+            "Tu": "corrigerais",
+            "Il/Elle": "corrigerait",
+            "Nous": "corrigerions",
+            "Vous": "corrigeriez",
+            "Ils/Elles": "corrigeraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais corrig\u00e9",
+            "Tu": "aurais corrig\u00e9",
+            "Il/Elle": "aurait corrig\u00e9",
+            "Nous": "aurions corrig\u00e9",
+            "Vous": "auriez corrig\u00e9",
+            "Ils/Elles": "auraient corrig\u00e9"
+        }
+    },
+    "d\u00e9courager": {
+        "Pr\u00e9sent": {
+            "Je": "d\u00e9courage",
+            "Tu": "d\u00e9courages",
+            "Il/Elle": "d\u00e9courage",
+            "Nous": "d\u00e9courageons",
+            "Vous": "d\u00e9couragez",
+            "Ils/Elles": "d\u00e9couragent"
+        },
+        "Imparfait": {
+            "Je": "d\u00e9courageais",
+            "Tu": "d\u00e9courageais",
+            "Il/Elle": "d\u00e9courageait",
+            "Nous": "d\u00e9couragions",
+            "Vous": "d\u00e9couragiez",
+            "Ils/Elles": "d\u00e9courageaient"
+        },
+        "Futur": {
+            "Je": "d\u00e9couragerai",
+            "Tu": "d\u00e9courageras",
+            "Il/Elle": "d\u00e9couragera",
+            "Nous": "d\u00e9couragerons",
+            "Vous": "d\u00e9couragerez",
+            "Ils/Elles": "d\u00e9courageront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai d\u00e9courag\u00e9",
+            "Tu": "as d\u00e9courag\u00e9",
+            "Il/Elle": "a d\u00e9courag\u00e9",
+            "Nous": "avons d\u00e9courag\u00e9",
+            "Vous": "avez d\u00e9courag\u00e9",
+            "Ils/Elles": "ont d\u00e9courag\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais d\u00e9courag\u00e9",
+            "Tu": "avais d\u00e9courag\u00e9",
+            "Il/Elle": "avait d\u00e9courag\u00e9",
+            "Nous": "avions d\u00e9courag\u00e9",
+            "Vous": "aviez d\u00e9courag\u00e9",
+            "Ils/Elles": "avaient d\u00e9courag\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai d\u00e9courag\u00e9",
+            "Tu": "auras d\u00e9courag\u00e9",
+            "Il/Elle": "aura d\u00e9courag\u00e9",
+            "Nous": "aurons d\u00e9courag\u00e9",
+            "Vous": "aurez d\u00e9courag\u00e9",
+            "Ils/Elles": "auront d\u00e9courag\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "d\u00e9courage",
+            "Tu": "d\u00e9courages",
+            "Il/Elle": "d\u00e9courage",
+            "Nous": "d\u00e9couragions",
+            "Vous": "d\u00e9couragiez",
+            "Ils/Elles": "d\u00e9couragent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie d\u00e9courag\u00e9",
+            "Tu": "aies d\u00e9courag\u00e9",
+            "Il/Elle": "ait d\u00e9courag\u00e9",
+            "Nous": "ayons d\u00e9courag\u00e9",
+            "Vous": "ayez d\u00e9courag\u00e9",
+            "Ils/Elles": "aient d\u00e9courag\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "d\u00e9couragerais",
+            "Tu": "d\u00e9couragerais",
+            "Il/Elle": "d\u00e9couragerait",
+            "Nous": "d\u00e9couragerions",
+            "Vous": "d\u00e9courageriez",
+            "Ils/Elles": "d\u00e9courageraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais d\u00e9courag\u00e9",
+            "Tu": "aurais d\u00e9courag\u00e9",
+            "Il/Elle": "aurait d\u00e9courag\u00e9",
+            "Nous": "aurions d\u00e9courag\u00e9",
+            "Vous": "auriez d\u00e9courag\u00e9",
+            "Ils/Elles": "auraient d\u00e9courag\u00e9"
+        }
+    },
+    "d\u00e9m\u00e9nager": {
+        "Pr\u00e9sent": {
+            "Je": "d\u00e9m\u00e9nage",
+            "Tu": "d\u00e9m\u00e9nages",
+            "Il/Elle": "d\u00e9m\u00e9nage",
+            "Nous": "d\u00e9m\u00e9nageons",
+            "Vous": "d\u00e9m\u00e9nagez",
+            "Ils/Elles": "d\u00e9m\u00e9nagent"
+        },
+        "Imparfait": {
+            "Je": "d\u00e9m\u00e9nageais",
+            "Tu": "d\u00e9m\u00e9nageais",
+            "Il/Elle": "d\u00e9m\u00e9nageait",
+            "Nous": "d\u00e9m\u00e9nagions",
+            "Vous": "d\u00e9m\u00e9nagiez",
+            "Ils/Elles": "d\u00e9m\u00e9nageaient"
+        },
+        "Futur": {
+            "Je": "d\u00e9m\u00e9nagerai",
+            "Tu": "d\u00e9m\u00e9nageras",
+            "Il/Elle": "d\u00e9m\u00e9nagera",
+            "Nous": "d\u00e9m\u00e9nagerons",
+            "Vous": "d\u00e9m\u00e9nagerez",
+            "Ils/Elles": "d\u00e9m\u00e9nageront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "suis d\u00e9m\u00e9nag\u00e9",
+            "Tu": "es d\u00e9m\u00e9nag\u00e9",
+            "Il/Elle": "est d\u00e9m\u00e9nag\u00e9(e)",
+            "Nous": "sommes d\u00e9m\u00e9nag\u00e9s",
+            "Vous": "\u00eates d\u00e9m\u00e9nag\u00e9s",
+            "Ils/Elles": "sont d\u00e9m\u00e9nag\u00e9(e)s"
+        },
+        "Plus que Parfait": {
+            "Je": "\u00e9tais d\u00e9m\u00e9nag\u00e9",
+            "Tu": "\u00e9tais d\u00e9m\u00e9nag\u00e9",
+            "Il/Elle": "\u00e9tait d\u00e9m\u00e9nag\u00e9(e)",
+            "Nous": "\u00e9tions d\u00e9m\u00e9nag\u00e9s",
+            "Vous": "\u00e9tiez d\u00e9m\u00e9nag\u00e9s",
+            "Ils/Elles": "\u00e9taient d\u00e9m\u00e9nag\u00e9(e)s"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "serai d\u00e9m\u00e9nag\u00e9",
+            "Tu": "seras d\u00e9m\u00e9nag\u00e9",
+            "Il/Elle": "sera d\u00e9m\u00e9nag\u00e9(e)",
+            "Nous": "serons d\u00e9m\u00e9nag\u00e9s",
+            "Vous": "serez d\u00e9m\u00e9nag\u00e9s",
+            "Ils/Elles": "seront d\u00e9m\u00e9nag\u00e9(e)s"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "d\u00e9m\u00e9nage",
+            "Tu": "d\u00e9m\u00e9nages",
+            "Il/Elle": "d\u00e9m\u00e9nage",
+            "Nous": "d\u00e9m\u00e9nagions",
+            "Vous": "d\u00e9m\u00e9nagiez",
+            "Ils/Elles": "d\u00e9m\u00e9nagent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "sois d\u00e9m\u00e9nag\u00e9",
+            "Tu": "sois d\u00e9m\u00e9nag\u00e9",
+            "Il/Elle": "soit d\u00e9m\u00e9nag\u00e9(e)",
+            "Nous": "soyons d\u00e9m\u00e9nag\u00e9s",
+            "Vous": "soyez d\u00e9m\u00e9nag\u00e9s",
+            "Ils/Elles": "soient d\u00e9m\u00e9nag\u00e9(e)s"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "d\u00e9m\u00e9nagerais",
+            "Tu": "d\u00e9m\u00e9nagerais",
+            "Il/Elle": "d\u00e9m\u00e9nagerait",
+            "Nous": "d\u00e9m\u00e9nagerions",
+            "Vous": "d\u00e9m\u00e9nageriez",
+            "Ils/Elles": "d\u00e9m\u00e9nageraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "serais d\u00e9m\u00e9nag\u00e9",
+            "Tu": "serais d\u00e9m\u00e9nag\u00e9",
+            "Il/Elle": "serait d\u00e9m\u00e9nag\u00e9(e)",
+            "Nous": "serions d\u00e9m\u00e9nag\u00e9s",
+            "Vous": "seriez d\u00e9m\u00e9nag\u00e9s",
+            "Ils/Elles": "seraient d\u00e9m\u00e9nag\u00e9(e)s"
+        }
+    },
+    "diriger": {
+        "Pr\u00e9sent": {
+            "Je": "dirige",
+            "Tu": "diriges",
+            "Il/Elle": "dirige",
+            "Nous": "dirigeons",
+            "Vous": "dirigez",
+            "Ils/Elles": "dirigent"
+        },
+        "Imparfait": {
+            "Je": "dirigeais",
+            "Tu": "dirigeais",
+            "Il/Elle": "dirigeait",
+            "Nous": "dirigions",
+            "Vous": "dirigiez",
+            "Ils/Elles": "dirigeaient"
+        },
+        "Futur": {
+            "Je": "dirigerai",
+            "Tu": "dirigeras",
+            "Il/Elle": "dirigera",
+            "Nous": "dirigerons",
+            "Vous": "dirigerez",
+            "Ils/Elles": "dirigeront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai dirig\u00e9",
+            "Tu": "as dirig\u00e9",
+            "Il/Elle": "a dirig\u00e9",
+            "Nous": "avons dirig\u00e9",
+            "Vous": "avez dirig\u00e9",
+            "Ils/Elles": "ont dirig\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais dirig\u00e9",
+            "Tu": "avais dirig\u00e9",
+            "Il/Elle": "avait dirig\u00e9",
+            "Nous": "avions dirig\u00e9",
+            "Vous": "aviez dirig\u00e9",
+            "Ils/Elles": "avaient dirig\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai dirig\u00e9",
+            "Tu": "auras dirig\u00e9",
+            "Il/Elle": "aura dirig\u00e9",
+            "Nous": "aurons dirig\u00e9",
+            "Vous": "aurez dirig\u00e9",
+            "Ils/Elles": "auront dirig\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "dirige",
+            "Tu": "diriges",
+            "Il/Elle": "dirige",
+            "Nous": "dirigions",
+            "Vous": "dirigiez",
+            "Ils/Elles": "dirigent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie dirig\u00e9",
+            "Tu": "aies dirig\u00e9",
+            "Il/Elle": "ait dirig\u00e9",
+            "Nous": "ayons dirig\u00e9",
+            "Vous": "ayez dirig\u00e9",
+            "Ils/Elles": "aient dirig\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "dirigerais",
+            "Tu": "dirigerais",
+            "Il/Elle": "dirigerait",
+            "Nous": "dirigerions",
+            "Vous": "dirigeriez",
+            "Ils/Elles": "dirigeraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais dirig\u00e9",
+            "Tu": "aurais dirig\u00e9",
+            "Il/Elle": "aurait dirig\u00e9",
+            "Nous": "aurions dirig\u00e9",
+            "Vous": "auriez dirig\u00e9",
+            "Ils/Elles": "auraient dirig\u00e9"
+        }
+    },
+    "encourager": {
+        "Pr\u00e9sent": {
+            "Je": "encourage",
+            "Tu": "encourages",
+            "Il/Elle": "encourage",
+            "Nous": "encourageons",
+            "Vous": "encouragez",
+            "Ils/Elles": "encouragent"
+        },
+        "Imparfait": {
+            "Je": "encourageais",
+            "Tu": "encourageais",
+            "Il/Elle": "encourageait",
+            "Nous": "encouragions",
+            "Vous": "encouragiez",
+            "Ils/Elles": "encourageaient"
+        },
+        "Futur": {
+            "Je": "encouragerai",
+            "Tu": "encourageras",
+            "Il/Elle": "encouragera",
+            "Nous": "encouragerons",
+            "Vous": "encouragerez",
+            "Ils/Elles": "encourageront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai encourag\u00e9",
+            "Tu": "as encourag\u00e9",
+            "Il/Elle": "a encourag\u00e9",
+            "Nous": "avons encourag\u00e9",
+            "Vous": "avez encourag\u00e9",
+            "Ils/Elles": "ont encourag\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais encourag\u00e9",
+            "Tu": "avais encourag\u00e9",
+            "Il/Elle": "avait encourag\u00e9",
+            "Nous": "avions encourag\u00e9",
+            "Vous": "aviez encourag\u00e9",
+            "Ils/Elles": "avaient encourag\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai encourag\u00e9",
+            "Tu": "auras encourag\u00e9",
+            "Il/Elle": "aura encourag\u00e9",
+            "Nous": "aurons encourag\u00e9",
+            "Vous": "aurez encourag\u00e9",
+            "Ils/Elles": "auront encourag\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "encourage",
+            "Tu": "encourages",
+            "Il/Elle": "encourage",
+            "Nous": "encouragions",
+            "Vous": "encouragiez",
+            "Ils/Elles": "encouragent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie encourag\u00e9",
+            "Tu": "aies encourag\u00e9",
+            "Il/Elle": "ait encourag\u00e9",
+            "Nous": "ayons encourag\u00e9",
+            "Vous": "ayez encourag\u00e9",
+            "Ils/Elles": "aient encourag\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "encouragerais",
+            "Tu": "encouragerais",
+            "Il/Elle": "encouragerait",
+            "Nous": "encouragerions",
+            "Vous": "encourageriez",
+            "Ils/Elles": "encourageraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais encourag\u00e9",
+            "Tu": "aurais encourag\u00e9",
+            "Il/Elle": "aurait encourag\u00e9",
+            "Nous": "aurions encourag\u00e9",
+            "Vous": "auriez encourag\u00e9",
+            "Ils/Elles": "auraient encourag\u00e9"
+        }
+    },
+    "exiger": {
+        "Pr\u00e9sent": {
+            "Je": "exige",
+            "Tu": "exiges",
+            "Il/Elle": "exige",
+            "Nous": "exigeons",
+            "Vous": "exigez",
+            "Ils/Elles": "exigent"
+        },
+        "Imparfait": {
+            "Je": "exigeais",
+            "Tu": "exigeais",
+            "Il/Elle": "exigeait",
+            "Nous": "exigions",
+            "Vous": "exigiez",
+            "Ils/Elles": "exigeaient"
+        },
+        "Futur": {
+            "Je": "exigerai",
+            "Tu": "exigeras",
+            "Il/Elle": "exigera",
+            "Nous": "exigerons",
+            "Vous": "exigerez",
+            "Ils/Elles": "exigeront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai exig\u00e9",
+            "Tu": "as exig\u00e9",
+            "Il/Elle": "a exig\u00e9",
+            "Nous": "avons exig\u00e9",
+            "Vous": "avez exig\u00e9",
+            "Ils/Elles": "ont exig\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais exig\u00e9",
+            "Tu": "avais exig\u00e9",
+            "Il/Elle": "avait exig\u00e9",
+            "Nous": "avions exig\u00e9",
+            "Vous": "aviez exig\u00e9",
+            "Ils/Elles": "avaient exig\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai exig\u00e9",
+            "Tu": "auras exig\u00e9",
+            "Il/Elle": "aura exig\u00e9",
+            "Nous": "aurons exig\u00e9",
+            "Vous": "aurez exig\u00e9",
+            "Ils/Elles": "auront exig\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "exige",
+            "Tu": "exiges",
+            "Il/Elle": "exige",
+            "Nous": "exigions",
+            "Vous": "exigiez",
+            "Ils/Elles": "exigent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie exig\u00e9",
+            "Tu": "aies exig\u00e9",
+            "Il/Elle": "ait exig\u00e9",
+            "Nous": "ayons exig\u00e9",
+            "Vous": "ayez exig\u00e9",
+            "Ils/Elles": "aient exig\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "exigerais",
+            "Tu": "exigerais",
+            "Il/Elle": "exigerait",
+            "Nous": "exigerions",
+            "Vous": "exigeriez",
+            "Ils/Elles": "exigeraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais exig\u00e9",
+            "Tu": "aurais exig\u00e9",
+            "Il/Elle": "aurait exig\u00e9",
+            "Nous": "aurions exig\u00e9",
+            "Vous": "auriez exig\u00e9",
+            "Ils/Elles": "auraient exig\u00e9"
+        }
+    },
+    "juger": {
+        "Pr\u00e9sent": {
+            "Je": "juge",
+            "Tu": "juges",
+            "Il/Elle": "juge",
+            "Nous": "jugeons",
+            "Vous": "jugez",
+            "Ils/Elles": "jugent"
+        },
+        "Imparfait": {
+            "Je": "jugeais",
+            "Tu": "jugeais",
+            "Il/Elle": "jugeait",
+            "Nous": "jugions",
+            "Vous": "jugiez",
+            "Ils/Elles": "jugeaient"
+        },
+        "Futur": {
+            "Je": "jugerai",
+            "Tu": "jugeras",
+            "Il/Elle": "jugera",
+            "Nous": "jugerons",
+            "Vous": "jugerez",
+            "Ils/Elles": "jugeront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai jug\u00e9",
+            "Tu": "as jug\u00e9",
+            "Il/Elle": "a jug\u00e9",
+            "Nous": "avons jug\u00e9",
+            "Vous": "avez jug\u00e9",
+            "Ils/Elles": "ont jug\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais jug\u00e9",
+            "Tu": "avais jug\u00e9",
+            "Il/Elle": "avait jug\u00e9",
+            "Nous": "avions jug\u00e9",
+            "Vous": "aviez jug\u00e9",
+            "Ils/Elles": "avaient jug\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai jug\u00e9",
+            "Tu": "auras jug\u00e9",
+            "Il/Elle": "aura jug\u00e9",
+            "Nous": "aurons jug\u00e9",
+            "Vous": "aurez jug\u00e9",
+            "Ils/Elles": "auront jug\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "juge",
+            "Tu": "juges",
+            "Il/Elle": "juge",
+            "Nous": "jugions",
+            "Vous": "jugiez",
+            "Ils/Elles": "jugent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie jug\u00e9",
+            "Tu": "aies jug\u00e9",
+            "Il/Elle": "ait jug\u00e9",
+            "Nous": "ayons jug\u00e9",
+            "Vous": "ayez jug\u00e9",
+            "Ils/Elles": "aient jug\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "jugerais",
+            "Tu": "jugerais",
+            "Il/Elle": "jugerait",
+            "Nous": "jugerions",
+            "Vous": "jugeriez",
+            "Ils/Elles": "jugeraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais jug\u00e9",
+            "Tu": "aurais jug\u00e9",
+            "Il/Elle": "aurait jug\u00e9",
+            "Nous": "aurions jug\u00e9",
+            "Vous": "auriez jug\u00e9",
+            "Ils/Elles": "auraient jug\u00e9"
+        }
+    },
+    "loger": {
+        "Pr\u00e9sent": {
+            "Je": "loge",
+            "Tu": "loges",
+            "Il/Elle": "loge",
+            "Nous": "logeons",
+            "Vous": "logez",
+            "Ils/Elles": "logent"
+        },
+        "Imparfait": {
+            "Je": "logeais",
+            "Tu": "logeais",
+            "Il/Elle": "logeait",
+            "Nous": "logions",
+            "Vous": "logiez",
+            "Ils/Elles": "logeaient"
+        },
+        "Futur": {
+            "Je": "logerai",
+            "Tu": "logeras",
+            "Il/Elle": "logera",
+            "Nous": "logerons",
+            "Vous": "logerez",
+            "Ils/Elles": "logeront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai log\u00e9",
+            "Tu": "as log\u00e9",
+            "Il/Elle": "a log\u00e9",
+            "Nous": "avons log\u00e9",
+            "Vous": "avez log\u00e9",
+            "Ils/Elles": "ont log\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais log\u00e9",
+            "Tu": "avais log\u00e9",
+            "Il/Elle": "avait log\u00e9",
+            "Nous": "avions log\u00e9",
+            "Vous": "aviez log\u00e9",
+            "Ils/Elles": "avaient log\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai log\u00e9",
+            "Tu": "auras log\u00e9",
+            "Il/Elle": "aura log\u00e9",
+            "Nous": "aurons log\u00e9",
+            "Vous": "aurez log\u00e9",
+            "Ils/Elles": "auront log\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "loge",
+            "Tu": "loges",
+            "Il/Elle": "loge",
+            "Nous": "logions",
+            "Vous": "logiez",
+            "Ils/Elles": "logent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie log\u00e9",
+            "Tu": "aies log\u00e9",
+            "Il/Elle": "ait log\u00e9",
+            "Nous": "ayons log\u00e9",
+            "Vous": "ayez log\u00e9",
+            "Ils/Elles": "aient log\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "logerais",
+            "Tu": "logerais",
+            "Il/Elle": "logerait",
+            "Nous": "logerions",
+            "Vous": "logeriez",
+            "Ils/Elles": "logeraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais log\u00e9",
+            "Tu": "aurais log\u00e9",
+            "Il/Elle": "aurait log\u00e9",
+            "Nous": "aurions log\u00e9",
+            "Vous": "auriez log\u00e9",
+            "Ils/Elles": "auraient log\u00e9"
+        }
+    },
+    "manger": {
+        "Pr\u00e9sent": {
+            "Je": "mange",
+            "Tu": "manges",
+            "Il/Elle": "mange",
+            "Nous": "mangeons",
+            "Vous": "mangez",
+            "Ils/Elles": "mangent"
+        },
+        "Imparfait": {
+            "Je": "mangeais",
+            "Tu": "mangeais",
+            "Il/Elle": "mangeait",
+            "Nous": "mangions",
+            "Vous": "mangiez",
+            "Ils/Elles": "mangeaient"
+        },
+        "Futur": {
+            "Je": "mangerai",
+            "Tu": "mangeras",
+            "Il/Elle": "mangera",
+            "Nous": "mangerons",
+            "Vous": "mangerez",
+            "Ils/Elles": "mangeront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai mang\u00e9",
+            "Tu": "as mang\u00e9",
+            "Il/Elle": "a mang\u00e9",
+            "Nous": "avons mang\u00e9",
+            "Vous": "avez mang\u00e9",
+            "Ils/Elles": "ont mang\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais mang\u00e9",
+            "Tu": "avais mang\u00e9",
+            "Il/Elle": "avait mang\u00e9",
+            "Nous": "avions mang\u00e9",
+            "Vous": "aviez mang\u00e9",
+            "Ils/Elles": "avaient mang\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai mang\u00e9",
+            "Tu": "auras mang\u00e9",
+            "Il/Elle": "aura mang\u00e9",
+            "Nous": "aurons mang\u00e9",
+            "Vous": "aurez mang\u00e9",
+            "Ils/Elles": "auront mang\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "mange",
+            "Tu": "manges",
+            "Il/Elle": "mange",
+            "Nous": "mangions",
+            "Vous": "mangiez",
+            "Ils/Elles": "mangent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie mang\u00e9",
+            "Tu": "aies mang\u00e9",
+            "Il/Elle": "ait mang\u00e9",
+            "Nous": "ayons mang\u00e9",
+            "Vous": "ayez mang\u00e9",
+            "Ils/Elles": "aient mang\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "mangerais",
+            "Tu": "mangerais",
+            "Il/Elle": "mangerait",
+            "Nous": "mangerions",
+            "Vous": "mangeriez",
+            "Ils/Elles": "mangeraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais mang\u00e9",
+            "Tu": "aurais mang\u00e9",
+            "Il/Elle": "aurait mang\u00e9",
+            "Nous": "aurions mang\u00e9",
+            "Vous": "auriez mang\u00e9",
+            "Ils/Elles": "auraient mang\u00e9"
+        }
+    },
+    "m\u00e9langer": {
+        "Pr\u00e9sent": {
+            "Je": "m\u00e9lange",
+            "Tu": "m\u00e9langes",
+            "Il/Elle": "m\u00e9lange",
+            "Nous": "m\u00e9langeons",
+            "Vous": "m\u00e9langez",
+            "Ils/Elles": "m\u00e9langent"
+        },
+        "Imparfait": {
+            "Je": "m\u00e9langeais",
+            "Tu": "m\u00e9langeais",
+            "Il/Elle": "m\u00e9langeait",
+            "Nous": "m\u00e9langions",
+            "Vous": "m\u00e9langiez",
+            "Ils/Elles": "m\u00e9langeaient"
+        },
+        "Futur": {
+            "Je": "m\u00e9langerai",
+            "Tu": "m\u00e9langeras",
+            "Il/Elle": "m\u00e9langera",
+            "Nous": "m\u00e9langerons",
+            "Vous": "m\u00e9langerez",
+            "Ils/Elles": "m\u00e9langeront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai m\u00e9lang\u00e9",
+            "Tu": "as m\u00e9lang\u00e9",
+            "Il/Elle": "a m\u00e9lang\u00e9",
+            "Nous": "avons m\u00e9lang\u00e9",
+            "Vous": "avez m\u00e9lang\u00e9",
+            "Ils/Elles": "ont m\u00e9lang\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais m\u00e9lang\u00e9",
+            "Tu": "avais m\u00e9lang\u00e9",
+            "Il/Elle": "avait m\u00e9lang\u00e9",
+            "Nous": "avions m\u00e9lang\u00e9",
+            "Vous": "aviez m\u00e9lang\u00e9",
+            "Ils/Elles": "avaient m\u00e9lang\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai m\u00e9lang\u00e9",
+            "Tu": "auras m\u00e9lang\u00e9",
+            "Il/Elle": "aura m\u00e9lang\u00e9",
+            "Nous": "aurons m\u00e9lang\u00e9",
+            "Vous": "aurez m\u00e9lang\u00e9",
+            "Ils/Elles": "auront m\u00e9lang\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "m\u00e9lange",
+            "Tu": "m\u00e9langes",
+            "Il/Elle": "m\u00e9lange",
+            "Nous": "m\u00e9langions",
+            "Vous": "m\u00e9langiez",
+            "Ils/Elles": "m\u00e9langent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie m\u00e9lang\u00e9",
+            "Tu": "aies m\u00e9lang\u00e9",
+            "Il/Elle": "ait m\u00e9lang\u00e9",
+            "Nous": "ayons m\u00e9lang\u00e9",
+            "Vous": "ayez m\u00e9lang\u00e9",
+            "Ils/Elles": "aient m\u00e9lang\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "m\u00e9langerais",
+            "Tu": "m\u00e9langerais",
+            "Il/Elle": "m\u00e9langerait",
+            "Nous": "m\u00e9langerions",
+            "Vous": "m\u00e9langeriez",
+            "Ils/Elles": "m\u00e9langeraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais m\u00e9lang\u00e9",
+            "Tu": "aurais m\u00e9lang\u00e9",
+            "Il/Elle": "aurait m\u00e9lang\u00e9",
+            "Nous": "aurions m\u00e9lang\u00e9",
+            "Vous": "auriez m\u00e9lang\u00e9",
+            "Ils/Elles": "auraient m\u00e9lang\u00e9"
+        }
+    },
+    "nager": {
+        "Pr\u00e9sent": {
+            "Je": "nage",
+            "Tu": "nages",
+            "Il/Elle": "nage",
+            "Nous": "nageons",
+            "Vous": "nagez",
+            "Ils/Elles": "nagent"
+        },
+        "Imparfait": {
+            "Je": "nageais",
+            "Tu": "nageais",
+            "Il/Elle": "nageait",
+            "Nous": "nagions",
+            "Vous": "nagiez",
+            "Ils/Elles": "nageaient"
+        },
+        "Futur": {
+            "Je": "nagerai",
+            "Tu": "nageras",
+            "Il/Elle": "nagera",
+            "Nous": "nagerons",
+            "Vous": "nagerez",
+            "Ils/Elles": "nageront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai nag\u00e9",
+            "Tu": "as nag\u00e9",
+            "Il/Elle": "a nag\u00e9",
+            "Nous": "avons nag\u00e9",
+            "Vous": "avez nag\u00e9",
+            "Ils/Elles": "ont nag\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais nag\u00e9",
+            "Tu": "avais nag\u00e9",
+            "Il/Elle": "avait nag\u00e9",
+            "Nous": "avions nag\u00e9",
+            "Vous": "aviez nag\u00e9",
+            "Ils/Elles": "avaient nag\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai nag\u00e9",
+            "Tu": "auras nag\u00e9",
+            "Il/Elle": "aura nag\u00e9",
+            "Nous": "aurons nag\u00e9",
+            "Vous": "aurez nag\u00e9",
+            "Ils/Elles": "auront nag\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "nage",
+            "Tu": "nages",
+            "Il/Elle": "nage",
+            "Nous": "nagions",
+            "Vous": "nagiez",
+            "Ils/Elles": "nagent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie nag\u00e9",
+            "Tu": "aies nag\u00e9",
+            "Il/Elle": "ait nag\u00e9",
+            "Nous": "ayons nag\u00e9",
+            "Vous": "ayez nag\u00e9",
+            "Ils/Elles": "aient nag\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "nagerais",
+            "Tu": "nagerais",
+            "Il/Elle": "nagerait",
+            "Nous": "nagerions",
+            "Vous": "nageriez",
+            "Ils/Elles": "nageraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais nag\u00e9",
+            "Tu": "aurais nag\u00e9",
+            "Il/Elle": "aurait nag\u00e9",
+            "Nous": "aurions nag\u00e9",
+            "Vous": "auriez nag\u00e9",
+            "Ils/Elles": "auraient nag\u00e9"
+        }
+    },
+    "partager": {
+        "Pr\u00e9sent": {
+            "Je": "partage",
+            "Tu": "partages",
+            "Il/Elle": "partage",
+            "Nous": "partageons",
+            "Vous": "partagez",
+            "Ils/Elles": "partagent"
+        },
+        "Imparfait": {
+            "Je": "partageais",
+            "Tu": "partageais",
+            "Il/Elle": "partageait",
+            "Nous": "partagions",
+            "Vous": "partagiez",
+            "Ils/Elles": "partageaient"
+        },
+        "Futur": {
+            "Je": "partagerai",
+            "Tu": "partageras",
+            "Il/Elle": "partagera",
+            "Nous": "partagerons",
+            "Vous": "partagerez",
+            "Ils/Elles": "partageront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai partag\u00e9",
+            "Tu": "as partag\u00e9",
+            "Il/Elle": "a partag\u00e9",
+            "Nous": "avons partag\u00e9",
+            "Vous": "avez partag\u00e9",
+            "Ils/Elles": "ont partag\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais partag\u00e9",
+            "Tu": "avais partag\u00e9",
+            "Il/Elle": "avait partag\u00e9",
+            "Nous": "avions partag\u00e9",
+            "Vous": "aviez partag\u00e9",
+            "Ils/Elles": "avaient partag\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai partag\u00e9",
+            "Tu": "auras partag\u00e9",
+            "Il/Elle": "aura partag\u00e9",
+            "Nous": "aurons partag\u00e9",
+            "Vous": "aurez partag\u00e9",
+            "Ils/Elles": "auront partag\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "partage",
+            "Tu": "partages",
+            "Il/Elle": "partage",
+            "Nous": "partagions",
+            "Vous": "partagiez",
+            "Ils/Elles": "partagent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie partag\u00e9",
+            "Tu": "aies partag\u00e9",
+            "Il/Elle": "ait partag\u00e9",
+            "Nous": "ayons partag\u00e9",
+            "Vous": "ayez partag\u00e9",
+            "Ils/Elles": "aient partag\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "partagerais",
+            "Tu": "partagerais",
+            "Il/Elle": "partagerait",
+            "Nous": "partagerions",
+            "Vous": "partageriez",
+            "Ils/Elles": "partageraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais partag\u00e9",
+            "Tu": "aurais partag\u00e9",
+            "Il/Elle": "aurait partag\u00e9",
+            "Nous": "aurions partag\u00e9",
+            "Vous": "auriez partag\u00e9",
+            "Ils/Elles": "auraient partag\u00e9"
+        }
+    },
+    "voyager": {
+        "Pr\u00e9sent": {
+            "Je": "voyage",
+            "Tu": "voyages",
+            "Il/Elle": "voyage",
+            "Nous": "voyageons",
+            "Vous": "voyagez",
+            "Ils/Elles": "voyagent"
+        },
+        "Imparfait": {
+            "Je": "voyageais",
+            "Tu": "voyageais",
+            "Il/Elle": "voyageait",
+            "Nous": "voyagions",
+            "Vous": "voyagiez",
+            "Ils/Elles": "voyageaient"
+        },
+        "Futur": {
+            "Je": "voyagerai",
+            "Tu": "voyageras",
+            "Il/Elle": "voyagera",
+            "Nous": "voyagerons",
+            "Vous": "voyagerez",
+            "Ils/Elles": "voyageront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai voyag\u00e9",
+            "Tu": "as voyag\u00e9",
+            "Il/Elle": "a voyag\u00e9",
+            "Nous": "avons voyag\u00e9",
+            "Vous": "avez voyag\u00e9",
+            "Ils/Elles": "ont voyag\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais voyag\u00e9",
+            "Tu": "avais voyag\u00e9",
+            "Il/Elle": "avait voyag\u00e9",
+            "Nous": "avions voyag\u00e9",
+            "Vous": "aviez voyag\u00e9",
+            "Ils/Elles": "avaient voyag\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai voyag\u00e9",
+            "Tu": "auras voyag\u00e9",
+            "Il/Elle": "aura voyag\u00e9",
+            "Nous": "aurons voyag\u00e9",
+            "Vous": "aurez voyag\u00e9",
+            "Ils/Elles": "auront voyag\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "voyage",
+            "Tu": "voyages",
+            "Il/Elle": "voyage",
+            "Nous": "voyagions",
+            "Vous": "voyagiez",
+            "Ils/Elles": "voyagent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie voyag\u00e9",
+            "Tu": "aies voyag\u00e9",
+            "Il/Elle": "ait voyag\u00e9",
+            "Nous": "ayons voyag\u00e9",
+            "Vous": "ayez voyag\u00e9",
+            "Ils/Elles": "aient voyag\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "voyagerais",
+            "Tu": "voyagerais",
+            "Il/Elle": "voyagerait",
+            "Nous": "voyagerions",
+            "Vous": "voyageriez",
+            "Ils/Elles": "voyageraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais voyag\u00e9",
+            "Tu": "aurais voyag\u00e9",
+            "Il/Elle": "aurait voyag\u00e9",
+            "Nous": "aurions voyag\u00e9",
+            "Vous": "auriez voyag\u00e9",
+            "Ils/Elles": "auraient voyag\u00e9"
+        }
+    },
+    "annoncer": {
+        "Pr\u00e9sent": {
+            "Je": "annonce",
+            "Tu": "annonces",
+            "Il/Elle": "annonce",
+            "Nous": "annon\u00e7ons",
+            "Vous": "annoncez",
+            "Ils/Elles": "annoncent"
+        },
+        "Imparfait": {
+            "Je": "annon\u00e7ais",
+            "Tu": "annon\u00e7ais",
+            "Il/Elle": "annon\u00e7ait",
+            "Nous": "annoncions",
+            "Vous": "annonciez",
+            "Ils/Elles": "annon\u00e7aient"
+        },
+        "Futur": {
+            "Je": "annoncerai",
+            "Tu": "annonceras",
+            "Il/Elle": "annoncera",
+            "Nous": "annoncerons",
+            "Vous": "annoncerez",
+            "Ils/Elles": "annonceront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai annonc\u00e9",
+            "Tu": "as annonc\u00e9",
+            "Il/Elle": "a annonc\u00e9",
+            "Nous": "avons annonc\u00e9",
+            "Vous": "avez annonc\u00e9",
+            "Ils/Elles": "ont annonc\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais annonc\u00e9",
+            "Tu": "avais annonc\u00e9",
+            "Il/Elle": "avait annonc\u00e9",
+            "Nous": "avions annonc\u00e9",
+            "Vous": "aviez annonc\u00e9",
+            "Ils/Elles": "avaient annonc\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai annonc\u00e9",
+            "Tu": "auras annonc\u00e9",
+            "Il/Elle": "aura annonc\u00e9",
+            "Nous": "aurons annonc\u00e9",
+            "Vous": "aurez annonc\u00e9",
+            "Ils/Elles": "auront annonc\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "annonce",
+            "Tu": "annonces",
+            "Il/Elle": "annonce",
+            "Nous": "annoncions",
+            "Vous": "annonciez",
+            "Ils/Elles": "annoncent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie annonc\u00e9",
+            "Tu": "aies annonc\u00e9",
+            "Il/Elle": "ait annonc\u00e9",
+            "Nous": "ayons annonc\u00e9",
+            "Vous": "ayez annonc\u00e9",
+            "Ils/Elles": "aient annonc\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "annoncerais",
+            "Tu": "annoncerais",
+            "Il/Elle": "annoncerait",
+            "Nous": "annoncerions",
+            "Vous": "annonceriez",
+            "Ils/Elles": "annonceraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais annonc\u00e9",
+            "Tu": "aurais annonc\u00e9",
+            "Il/Elle": "aurait annonc\u00e9",
+            "Nous": "aurions annonc\u00e9",
+            "Vous": "auriez annonc\u00e9",
+            "Ils/Elles": "auraient annonc\u00e9"
+        }
+    },
+    "avancer": {
+        "Pr\u00e9sent": {
+            "Je": "avance",
+            "Tu": "avances",
+            "Il/Elle": "avance",
+            "Nous": "avan\u00e7ons",
+            "Vous": "avancez",
+            "Ils/Elles": "avancent"
+        },
+        "Imparfait": {
+            "Je": "avan\u00e7ais",
+            "Tu": "avan\u00e7ais",
+            "Il/Elle": "avan\u00e7ait",
+            "Nous": "avancions",
+            "Vous": "avanciez",
+            "Ils/Elles": "avan\u00e7aient"
+        },
+        "Futur": {
+            "Je": "avancerai",
+            "Tu": "avanceras",
+            "Il/Elle": "avancera",
+            "Nous": "avancerons",
+            "Vous": "avancerez",
+            "Ils/Elles": "avanceront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai avanc\u00e9",
+            "Tu": "as avanc\u00e9",
+            "Il/Elle": "a avanc\u00e9",
+            "Nous": "avons avanc\u00e9",
+            "Vous": "avez avanc\u00e9",
+            "Ils/Elles": "ont avanc\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais avanc\u00e9",
+            "Tu": "avais avanc\u00e9",
+            "Il/Elle": "avait avanc\u00e9",
+            "Nous": "avions avanc\u00e9",
+            "Vous": "aviez avanc\u00e9",
+            "Ils/Elles": "avaient avanc\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai avanc\u00e9",
+            "Tu": "auras avanc\u00e9",
+            "Il/Elle": "aura avanc\u00e9",
+            "Nous": "aurons avanc\u00e9",
+            "Vous": "aurez avanc\u00e9",
+            "Ils/Elles": "auront avanc\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "avance",
+            "Tu": "avances",
+            "Il/Elle": "avance",
+            "Nous": "avancions",
+            "Vous": "avanciez",
+            "Ils/Elles": "avancent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie avanc\u00e9",
+            "Tu": "aies avanc\u00e9",
+            "Il/Elle": "ait avanc\u00e9",
+            "Nous": "ayons avanc\u00e9",
+            "Vous": "ayez avanc\u00e9",
+            "Ils/Elles": "aient avanc\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "avancerais",
+            "Tu": "avancerais",
+            "Il/Elle": "avancerait",
+            "Nous": "avancerions",
+            "Vous": "avanceriez",
+            "Ils/Elles": "avanceraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais avanc\u00e9",
+            "Tu": "aurais avanc\u00e9",
+            "Il/Elle": "aurait avanc\u00e9",
+            "Nous": "aurions avanc\u00e9",
+            "Vous": "auriez avanc\u00e9",
+            "Ils/Elles": "auraient avanc\u00e9"
+        }
+    },
+    "commencer": {
+        "Pr\u00e9sent": {
+            "Je": "commence",
+            "Tu": "commences",
+            "Il/Elle": "commence",
+            "Nous": "commen\u00e7ons",
+            "Vous": "commencez",
+            "Ils/Elles": "commencent"
+        },
+        "Imparfait": {
+            "Je": "commen\u00e7ais",
+            "Tu": "commen\u00e7ais",
+            "Il/Elle": "commen\u00e7ait",
+            "Nous": "commencions",
+            "Vous": "commenciez",
+            "Ils/Elles": "commen\u00e7aient"
+        },
+        "Futur": {
+            "Je": "commencerai",
+            "Tu": "commenceras",
+            "Il/Elle": "commencera",
+            "Nous": "commencerons",
+            "Vous": "commencerez",
+            "Ils/Elles": "commenceront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "suis commenc\u00e9",
+            "Tu": "es commenc\u00e9",
+            "Il/Elle": "est commenc\u00e9(e)",
+            "Nous": "sommes commenc\u00e9s",
+            "Vous": "\u00eates commenc\u00e9s",
+            "Ils/Elles": "sont commenc\u00e9(e)s"
+        },
+        "Plus que Parfait": {
+            "Je": "\u00e9tais commenc\u00e9",
+            "Tu": "\u00e9tais commenc\u00e9",
+            "Il/Elle": "\u00e9tait commenc\u00e9(e)",
+            "Nous": "\u00e9tions commenc\u00e9s",
+            "Vous": "\u00e9tiez commenc\u00e9s",
+            "Ils/Elles": "\u00e9taient commenc\u00e9(e)s"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "serai commenc\u00e9",
+            "Tu": "seras commenc\u00e9",
+            "Il/Elle": "sera commenc\u00e9(e)",
+            "Nous": "serons commenc\u00e9s",
+            "Vous": "serez commenc\u00e9s",
+            "Ils/Elles": "seront commenc\u00e9(e)s"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "commence",
+            "Tu": "commences",
+            "Il/Elle": "commence",
+            "Nous": "commencions",
+            "Vous": "commenciez",
+            "Ils/Elles": "commencent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "sois commenc\u00e9",
+            "Tu": "sois commenc\u00e9",
+            "Il/Elle": "soit commenc\u00e9(e)",
+            "Nous": "soyons commenc\u00e9s",
+            "Vous": "soyez commenc\u00e9s",
+            "Ils/Elles": "soient commenc\u00e9(e)s"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "commencerais",
+            "Tu": "commencerais",
+            "Il/Elle": "commencerait",
+            "Nous": "commencerions",
+            "Vous": "commenceriez",
+            "Ils/Elles": "commenceraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "serais commenc\u00e9",
+            "Tu": "serais commenc\u00e9",
+            "Il/Elle": "serait commenc\u00e9(e)",
+            "Nous": "serions commenc\u00e9s",
+            "Vous": "seriez commenc\u00e9s",
+            "Ils/Elles": "seraient commenc\u00e9(e)s"
+        }
+    },
+    "effacer": {
+        "Pr\u00e9sent": {
+            "Je": "efface",
+            "Tu": "effaces",
+            "Il/Elle": "efface",
+            "Nous": "effa\u00e7ons",
+            "Vous": "effacez",
+            "Ils/Elles": "effacent"
+        },
+        "Imparfait": {
+            "Je": "effa\u00e7ais",
+            "Tu": "effa\u00e7ais",
+            "Il/Elle": "effa\u00e7ait",
+            "Nous": "effacions",
+            "Vous": "effaciez",
+            "Ils/Elles": "effa\u00e7aient"
+        },
+        "Futur": {
+            "Je": "effacerai",
+            "Tu": "effaceras",
+            "Il/Elle": "effacera",
+            "Nous": "effacerons",
+            "Vous": "effacerez",
+            "Ils/Elles": "effaceront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai effac\u00e9",
+            "Tu": "as effac\u00e9",
+            "Il/Elle": "a effac\u00e9",
+            "Nous": "avons effac\u00e9",
+            "Vous": "avez effac\u00e9",
+            "Ils/Elles": "ont effac\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais effac\u00e9",
+            "Tu": "avais effac\u00e9",
+            "Il/Elle": "avait effac\u00e9",
+            "Nous": "avions effac\u00e9",
+            "Vous": "aviez effac\u00e9",
+            "Ils/Elles": "avaient effac\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai effac\u00e9",
+            "Tu": "auras effac\u00e9",
+            "Il/Elle": "aura effac\u00e9",
+            "Nous": "aurons effac\u00e9",
+            "Vous": "aurez effac\u00e9",
+            "Ils/Elles": "auront effac\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "efface",
+            "Tu": "effaces",
+            "Il/Elle": "efface",
+            "Nous": "effacions",
+            "Vous": "effaciez",
+            "Ils/Elles": "effacent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie effac\u00e9",
+            "Tu": "aies effac\u00e9",
+            "Il/Elle": "ait effac\u00e9",
+            "Nous": "ayons effac\u00e9",
+            "Vous": "ayez effac\u00e9",
+            "Ils/Elles": "aient effac\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "effacerais",
+            "Tu": "effacerais",
+            "Il/Elle": "effacerait",
+            "Nous": "effacerions",
+            "Vous": "effaceriez",
+            "Ils/Elles": "effaceraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais effac\u00e9",
+            "Tu": "aurais effac\u00e9",
+            "Il/Elle": "aurait effac\u00e9",
+            "Nous": "aurions effac\u00e9",
+            "Vous": "auriez effac\u00e9",
+            "Ils/Elles": "auraient effac\u00e9"
+        }
+    },
+    "lancer": {
+        "Pr\u00e9sent": {
+            "Je": "lance",
+            "Tu": "lances",
+            "Il/Elle": "lance",
+            "Nous": "lan\u00e7ons",
+            "Vous": "lancez",
+            "Ils/Elles": "lancent"
+        },
+        "Imparfait": {
+            "Je": "lan\u00e7ais",
+            "Tu": "lan\u00e7ais",
+            "Il/Elle": "lan\u00e7ait",
+            "Nous": "lancions",
+            "Vous": "lanciez",
+            "Ils/Elles": "lan\u00e7aient"
+        },
+        "Futur": {
+            "Je": "lancerai",
+            "Tu": "lanceras",
+            "Il/Elle": "lancera",
+            "Nous": "lancerons",
+            "Vous": "lancerez",
+            "Ils/Elles": "lanceront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai lanc\u00e9",
+            "Tu": "as lanc\u00e9",
+            "Il/Elle": "a lanc\u00e9",
+            "Nous": "avons lanc\u00e9",
+            "Vous": "avez lanc\u00e9",
+            "Ils/Elles": "ont lanc\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais lanc\u00e9",
+            "Tu": "avais lanc\u00e9",
+            "Il/Elle": "avait lanc\u00e9",
+            "Nous": "avions lanc\u00e9",
+            "Vous": "aviez lanc\u00e9",
+            "Ils/Elles": "avaient lanc\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai lanc\u00e9",
+            "Tu": "auras lanc\u00e9",
+            "Il/Elle": "aura lanc\u00e9",
+            "Nous": "aurons lanc\u00e9",
+            "Vous": "aurez lanc\u00e9",
+            "Ils/Elles": "auront lanc\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "lance",
+            "Tu": "lances",
+            "Il/Elle": "lance",
+            "Nous": "lancions",
+            "Vous": "lanciez",
+            "Ils/Elles": "lancent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie lanc\u00e9",
+            "Tu": "aies lanc\u00e9",
+            "Il/Elle": "ait lanc\u00e9",
+            "Nous": "ayons lanc\u00e9",
+            "Vous": "ayez lanc\u00e9",
+            "Ils/Elles": "aient lanc\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "lancerais",
+            "Tu": "lancerais",
+            "Il/Elle": "lancerait",
+            "Nous": "lancerions",
+            "Vous": "lanceriez",
+            "Ils/Elles": "lanceraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais lanc\u00e9",
+            "Tu": "aurais lanc\u00e9",
+            "Il/Elle": "aurait lanc\u00e9",
+            "Nous": "aurions lanc\u00e9",
+            "Vous": "auriez lanc\u00e9",
+            "Ils/Elles": "auraient lanc\u00e9"
+        }
+    },
+    "menacer": {
+        "Pr\u00e9sent": {
+            "Je": "menace",
+            "Tu": "menaces",
+            "Il/Elle": "menace",
+            "Nous": "mena\u00e7ons",
+            "Vous": "menacez",
+            "Ils/Elles": "menacent"
+        },
+        "Imparfait": {
+            "Je": "mena\u00e7ais",
+            "Tu": "mena\u00e7ais",
+            "Il/Elle": "mena\u00e7ait",
+            "Nous": "menacions",
+            "Vous": "menaciez",
+            "Ils/Elles": "mena\u00e7aient"
+        },
+        "Futur": {
+            "Je": "menacerai",
+            "Tu": "menaceras",
+            "Il/Elle": "menacera",
+            "Nous": "menacerons",
+            "Vous": "menacerez",
+            "Ils/Elles": "menaceront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai menac\u00e9",
+            "Tu": "as menac\u00e9",
+            "Il/Elle": "a menac\u00e9",
+            "Nous": "avons menac\u00e9",
+            "Vous": "avez menac\u00e9",
+            "Ils/Elles": "ont menac\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais menac\u00e9",
+            "Tu": "avais menac\u00e9",
+            "Il/Elle": "avait menac\u00e9",
+            "Nous": "avions menac\u00e9",
+            "Vous": "aviez menac\u00e9",
+            "Ils/Elles": "avaient menac\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai menac\u00e9",
+            "Tu": "auras menac\u00e9",
+            "Il/Elle": "aura menac\u00e9",
+            "Nous": "aurons menac\u00e9",
+            "Vous": "aurez menac\u00e9",
+            "Ils/Elles": "auront menac\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "menace",
+            "Tu": "menaces",
+            "Il/Elle": "menace",
+            "Nous": "menacions",
+            "Vous": "menaciez",
+            "Ils/Elles": "menacent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie menac\u00e9",
+            "Tu": "aies menac\u00e9",
+            "Il/Elle": "ait menac\u00e9",
+            "Nous": "ayons menac\u00e9",
+            "Vous": "ayez menac\u00e9",
+            "Ils/Elles": "aient menac\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "menacerais",
+            "Tu": "menacerais",
+            "Il/Elle": "menacerait",
+            "Nous": "menacerions",
+            "Vous": "menaceriez",
+            "Ils/Elles": "menaceraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais menac\u00e9",
+            "Tu": "aurais menac\u00e9",
+            "Il/Elle": "aurait menac\u00e9",
+            "Nous": "aurions menac\u00e9",
+            "Vous": "auriez menac\u00e9",
+            "Ils/Elles": "auraient menac\u00e9"
+        }
+    },
+    "placer": {
+        "Pr\u00e9sent": {
+            "Je": "place",
+            "Tu": "places",
+            "Il/Elle": "place",
+            "Nous": "pla\u00e7ons",
+            "Vous": "placez",
+            "Ils/Elles": "placent"
+        },
+        "Imparfait": {
+            "Je": "pla\u00e7ais",
+            "Tu": "pla\u00e7ais",
+            "Il/Elle": "pla\u00e7ait",
+            "Nous": "placions",
+            "Vous": "placiez",
+            "Ils/Elles": "pla\u00e7aient"
+        },
+        "Futur": {
+            "Je": "placerai",
+            "Tu": "placeras",
+            "Il/Elle": "placera",
+            "Nous": "placerons",
+            "Vous": "placerez",
+            "Ils/Elles": "placeront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai plac\u00e9",
+            "Tu": "as plac\u00e9",
+            "Il/Elle": "a plac\u00e9",
+            "Nous": "avons plac\u00e9",
+            "Vous": "avez plac\u00e9",
+            "Ils/Elles": "ont plac\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais plac\u00e9",
+            "Tu": "avais plac\u00e9",
+            "Il/Elle": "avait plac\u00e9",
+            "Nous": "avions plac\u00e9",
+            "Vous": "aviez plac\u00e9",
+            "Ils/Elles": "avaient plac\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai plac\u00e9",
+            "Tu": "auras plac\u00e9",
+            "Il/Elle": "aura plac\u00e9",
+            "Nous": "aurons plac\u00e9",
+            "Vous": "aurez plac\u00e9",
+            "Ils/Elles": "auront plac\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "place",
+            "Tu": "places",
+            "Il/Elle": "place",
+            "Nous": "placions",
+            "Vous": "placiez",
+            "Ils/Elles": "placent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie plac\u00e9",
+            "Tu": "aies plac\u00e9",
+            "Il/Elle": "ait plac\u00e9",
+            "Nous": "ayons plac\u00e9",
+            "Vous": "ayez plac\u00e9",
+            "Ils/Elles": "aient plac\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "placerais",
+            "Tu": "placerais",
+            "Il/Elle": "placerait",
+            "Nous": "placerions",
+            "Vous": "placeriez",
+            "Ils/Elles": "placeraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais plac\u00e9",
+            "Tu": "aurais plac\u00e9",
+            "Il/Elle": "aurait plac\u00e9",
+            "Nous": "aurions plac\u00e9",
+            "Vous": "auriez plac\u00e9",
+            "Ils/Elles": "auraient plac\u00e9"
+        }
+    },
+    "remplacer": {
+        "Pr\u00e9sent": {
+            "Je": "remplace",
+            "Tu": "remplaces",
+            "Il/Elle": "remplace",
+            "Nous": "rempla\u00e7ons",
+            "Vous": "remplacez",
+            "Ils/Elles": "remplacent"
+        },
+        "Imparfait": {
+            "Je": "rempla\u00e7ais",
+            "Tu": "rempla\u00e7ais",
+            "Il/Elle": "rempla\u00e7ait",
+            "Nous": "remplacions",
+            "Vous": "remplaciez",
+            "Ils/Elles": "rempla\u00e7aient"
+        },
+        "Futur": {
+            "Je": "remplacerai",
+            "Tu": "remplaceras",
+            "Il/Elle": "remplacera",
+            "Nous": "remplacerons",
+            "Vous": "remplacerez",
+            "Ils/Elles": "remplaceront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai remplac\u00e9",
+            "Tu": "as remplac\u00e9",
+            "Il/Elle": "a remplac\u00e9",
+            "Nous": "avons remplac\u00e9",
+            "Vous": "avez remplac\u00e9",
+            "Ils/Elles": "ont remplac\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais remplac\u00e9",
+            "Tu": "avais remplac\u00e9",
+            "Il/Elle": "avait remplac\u00e9",
+            "Nous": "avions remplac\u00e9",
+            "Vous": "aviez remplac\u00e9",
+            "Ils/Elles": "avaient remplac\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai remplac\u00e9",
+            "Tu": "auras remplac\u00e9",
+            "Il/Elle": "aura remplac\u00e9",
+            "Nous": "aurons remplac\u00e9",
+            "Vous": "aurez remplac\u00e9",
+            "Ils/Elles": "auront remplac\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "remplace",
+            "Tu": "remplaces",
+            "Il/Elle": "remplace",
+            "Nous": "remplacions",
+            "Vous": "remplaciez",
+            "Ils/Elles": "remplacent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie remplac\u00e9",
+            "Tu": "aies remplac\u00e9",
+            "Il/Elle": "ait remplac\u00e9",
+            "Nous": "ayons remplac\u00e9",
+            "Vous": "ayez remplac\u00e9",
+            "Ils/Elles": "aient remplac\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "remplacerais",
+            "Tu": "remplacerais",
+            "Il/Elle": "remplacerait",
+            "Nous": "remplacerions",
+            "Vous": "remplaceriez",
+            "Ils/Elles": "remplaceraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais remplac\u00e9",
+            "Tu": "aurais remplac\u00e9",
+            "Il/Elle": "aurait remplac\u00e9",
+            "Nous": "aurions remplac\u00e9",
+            "Vous": "auriez remplac\u00e9",
+            "Ils/Elles": "auraient remplac\u00e9"
+        }
+    },
+    "balayer": {
+        "Pr\u00e9sent": {
+            "Je": "balaie",
+            "Tu": "balaies",
+            "Il/Elle": "balaie",
+            "Nous": "balayons",
+            "Vous": "balayez",
+            "Ils/Elles": "balaient"
+        },
+        "Imparfait": {
+            "Je": "balayais",
+            "Tu": "balayais",
+            "Il/Elle": "balayait",
+            "Nous": "balayions",
+            "Vous": "balayiez",
+            "Ils/Elles": "balayaient"
+        },
+        "Futur": {
+            "Je": "balaierai",
+            "Tu": "balaieras",
+            "Il/Elle": "balaiera",
+            "Nous": "balaierons",
+            "Vous": "balaierez",
+            "Ils/Elles": "balaieront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai balay\u00e9",
+            "Tu": "as balay\u00e9",
+            "Il/Elle": "a balay\u00e9",
+            "Nous": "avons balay\u00e9",
+            "Vous": "avez balay\u00e9",
+            "Ils/Elles": "ont balay\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais balay\u00e9",
+            "Tu": "avais balay\u00e9",
+            "Il/Elle": "avait balay\u00e9",
+            "Nous": "avions balay\u00e9",
+            "Vous": "aviez balay\u00e9",
+            "Ils/Elles": "avaient balay\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai balay\u00e9",
+            "Tu": "auras balay\u00e9",
+            "Il/Elle": "aura balay\u00e9",
+            "Nous": "aurons balay\u00e9",
+            "Vous": "aurez balay\u00e9",
+            "Ils/Elles": "auront balay\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "balaie",
+            "Tu": "balaies",
+            "Il/Elle": "balaie",
+            "Nous": "balayions",
+            "Vous": "balayiez",
+            "Ils/Elles": "balaient"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie balay\u00e9",
+            "Tu": "aies balay\u00e9",
+            "Il/Elle": "ait balay\u00e9",
+            "Nous": "ayons balay\u00e9",
+            "Vous": "ayez balay\u00e9",
+            "Ils/Elles": "aient balay\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "balaierais",
+            "Tu": "balaierais",
+            "Il/Elle": "balaierait",
+            "Nous": "balaierions",
+            "Vous": "balaieriez",
+            "Ils/Elles": "balaieraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais balay\u00e9",
+            "Tu": "aurais balay\u00e9",
+            "Il/Elle": "aurait balay\u00e9",
+            "Nous": "aurions balay\u00e9",
+            "Vous": "auriez balay\u00e9",
+            "Ils/Elles": "auraient balay\u00e9"
+        }
+    },
+    "effrayer": {
+        "Pr\u00e9sent": {
+            "Je": "effrayeeffrayes",
+            "Tu": "effrayeeffrayons",
+            "Il/Elle": "effrayezeffrayent",
+            "Nous": "effraieeffraies",
+            "Vous": "effraieeffrayons",
+            "Ils/Elles": "effrayezeffraient"
+        },
+        "Imparfait": {
+            "Je": "effrayais",
+            "Tu": "effrayais",
+            "Il/Elle": "effrayait",
+            "Nous": "effrayions",
+            "Vous": "effrayiez",
+            "Ils/Elles": "effrayaient"
+        },
+        "Futur": {
+            "Je": "effrayeraieffrayeras",
+            "Tu": "effrayeraeffrayerons",
+            "Il/Elle": "effrayerezeffrayeront",
+            "Nous": "effraieraieffraieras",
+            "Vous": "effraieraeffraierons",
+            "Ils/Elles": "effraierezeffraieront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai effray\u00e9",
+            "Tu": "as effray\u00e9",
+            "Il/Elle": "a effray\u00e9",
+            "Nous": "avons effray\u00e9",
+            "Vous": "avez effray\u00e9",
+            "Ils/Elles": "ont effray\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais effray\u00e9",
+            "Tu": "avais effray\u00e9",
+            "Il/Elle": "avait effray\u00e9",
+            "Nous": "avions effray\u00e9",
+            "Vous": "aviez effray\u00e9",
+            "Ils/Elles": "avaient effray\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai effray\u00e9",
+            "Tu": "auras effray\u00e9",
+            "Il/Elle": "aura effray\u00e9",
+            "Nous": "aurons effray\u00e9",
+            "Vous": "aurez effray\u00e9",
+            "Ils/Elles": "auront effray\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "effrayeeffrayes",
+            "Tu": "effrayeeffrayions",
+            "Il/Elle": "effrayiezeffrayent",
+            "Nous": "effraieeffraies",
+            "Vous": "effraieeffrayions",
+            "Ils/Elles": "effrayiezeffraient"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie effray\u00e9",
+            "Tu": "aies effray\u00e9",
+            "Il/Elle": "ait effray\u00e9",
+            "Nous": "ayons effray\u00e9",
+            "Vous": "ayez effray\u00e9",
+            "Ils/Elles": "aient effray\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "effrayeraiseffrayerais",
+            "Tu": "effrayeraiteffrayerions",
+            "Il/Elle": "effrayeriezeffrayeraient",
+            "Nous": "effraieraiseffraierais",
+            "Vous": "effraieraiteffraierions",
+            "Ils/Elles": "effraieriezeffraieraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais effray\u00e9",
+            "Tu": "aurais effray\u00e9",
+            "Il/Elle": "aurait effray\u00e9",
+            "Nous": "aurions effray\u00e9",
+            "Vous": "auriez effray\u00e9",
+            "Ils/Elles": "auraient effray\u00e9"
+        }
+    },
+    "envoyer": {
+        "Pr\u00e9sent": {
+            "Je": "envoie",
+            "Tu": "envoies",
+            "Il/Elle": "envoie",
+            "Nous": "envoyons",
+            "Vous": "envoyez",
+            "Ils/Elles": "envoient"
+        },
+        "Imparfait": {
+            "Je": "envoyais",
+            "Tu": "envoyais",
+            "Il/Elle": "envoyait",
+            "Nous": "envoyions",
+            "Vous": "envoyiez",
+            "Ils/Elles": "envoyaient"
+        },
+        "Futur": {
+            "Je": "enverrai",
+            "Tu": "enverras",
+            "Il/Elle": "enverra",
+            "Nous": "enverrons",
+            "Vous": "enverrez",
+            "Ils/Elles": "enverront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai envoy\u00e9",
+            "Tu": "as envoy\u00e9",
+            "Il/Elle": "a envoy\u00e9",
+            "Nous": "avons envoy\u00e9",
+            "Vous": "avez envoy\u00e9",
+            "Ils/Elles": "ont envoy\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais envoy\u00e9",
+            "Tu": "avais envoy\u00e9",
+            "Il/Elle": "avait envoy\u00e9",
+            "Nous": "avions envoy\u00e9",
+            "Vous": "aviez envoy\u00e9",
+            "Ils/Elles": "avaient envoy\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai envoy\u00e9",
+            "Tu": "auras envoy\u00e9",
+            "Il/Elle": "aura envoy\u00e9",
+            "Nous": "aurons envoy\u00e9",
+            "Vous": "aurez envoy\u00e9",
+            "Ils/Elles": "auront envoy\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "envoie",
+            "Tu": "envoies",
+            "Il/Elle": "envoie",
+            "Nous": "envoyions",
+            "Vous": "envoyiez",
+            "Ils/Elles": "envoient"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie envoy\u00e9",
+            "Tu": "aies envoy\u00e9",
+            "Il/Elle": "ait envoy\u00e9",
+            "Nous": "ayons envoy\u00e9",
+            "Vous": "ayez envoy\u00e9",
+            "Ils/Elles": "aient envoy\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "enverrais",
+            "Tu": "enverrais",
+            "Il/Elle": "enverrait",
+            "Nous": "enverrions",
+            "Vous": "enverriez",
+            "Ils/Elles": "enverraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais envoy\u00e9",
+            "Tu": "aurais envoy\u00e9",
+            "Il/Elle": "aurait envoy\u00e9",
+            "Nous": "aurions envoy\u00e9",
+            "Vous": "auriez envoy\u00e9",
+            "Ils/Elles": "auraient envoy\u00e9"
+        }
+    },
+    "essayer": {
+        "Pr\u00e9sent": {
+            "Je": "essayeessayes",
+            "Tu": "essayeessayons",
+            "Il/Elle": "essayezessayent",
+            "Nous": "essaieessaies",
+            "Vous": "essaieessayons",
+            "Ils/Elles": "essayezessaient"
+        },
+        "Imparfait": {
+            "Je": "essayais",
+            "Tu": "essayais",
+            "Il/Elle": "essayait",
+            "Nous": "essayions",
+            "Vous": "essayiez",
+            "Ils/Elles": "essayaient"
+        },
+        "Futur": {
+            "Je": "essayeraiessayeras",
+            "Tu": "essayeraessayerons",
+            "Il/Elle": "essayerezessayeront",
+            "Nous": "essaieraiessaieras",
+            "Vous": "essaieraessaierons",
+            "Ils/Elles": "essaierezessaieront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai essay\u00e9",
+            "Tu": "as essay\u00e9",
+            "Il/Elle": "a essay\u00e9",
+            "Nous": "avons essay\u00e9",
+            "Vous": "avez essay\u00e9",
+            "Ils/Elles": "ont essay\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais essay\u00e9",
+            "Tu": "avais essay\u00e9",
+            "Il/Elle": "avait essay\u00e9",
+            "Nous": "avions essay\u00e9",
+            "Vous": "aviez essay\u00e9",
+            "Ils/Elles": "avaient essay\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai essay\u00e9",
+            "Tu": "auras essay\u00e9",
+            "Il/Elle": "aura essay\u00e9",
+            "Nous": "aurons essay\u00e9",
+            "Vous": "aurez essay\u00e9",
+            "Ils/Elles": "auront essay\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "essayeessayes",
+            "Tu": "essayeessayions",
+            "Il/Elle": "essayiezessayent",
+            "Nous": "essaieessaies",
+            "Vous": "essaieessayions",
+            "Ils/Elles": "essayiezessaient"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie essay\u00e9",
+            "Tu": "aies essay\u00e9",
+            "Il/Elle": "ait essay\u00e9",
+            "Nous": "ayons essay\u00e9",
+            "Vous": "ayez essay\u00e9",
+            "Ils/Elles": "aient essay\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "essayeraisessayerais",
+            "Tu": "essayeraitessayerions",
+            "Il/Elle": "essayeriezessayeraient",
+            "Nous": "essaieraisessaierais",
+            "Vous": "essaieraitessaierions",
+            "Ils/Elles": "essaieriezessaieraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais essay\u00e9",
+            "Tu": "aurais essay\u00e9",
+            "Il/Elle": "aurait essay\u00e9",
+            "Nous": "aurions essay\u00e9",
+            "Vous": "auriez essay\u00e9",
+            "Ils/Elles": "auraient essay\u00e9"
+        }
+    },
+    "nettoyer": {
+        "Pr\u00e9sent": {
+            "Je": "nettoie",
+            "Tu": "nettoies",
+            "Il/Elle": "nettoie",
+            "Nous": "nettoyons",
+            "Vous": "nettoyez",
+            "Ils/Elles": "nettoient"
+        },
+        "Imparfait": {
+            "Je": "nettoyais",
+            "Tu": "nettoyais",
+            "Il/Elle": "nettoyait",
+            "Nous": "nettoyions",
+            "Vous": "nettoyiez",
+            "Ils/Elles": "nettoyaient"
+        },
+        "Futur": {
+            "Je": "nettoierai",
+            "Tu": "nettoieras",
+            "Il/Elle": "nettoiera",
+            "Nous": "nettoierons",
+            "Vous": "nettoierez",
+            "Ils/Elles": "nettoieront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai nettoy\u00e9",
+            "Tu": "as nettoy\u00e9",
+            "Il/Elle": "a nettoy\u00e9",
+            "Nous": "avons nettoy\u00e9",
+            "Vous": "avez nettoy\u00e9",
+            "Ils/Elles": "ont nettoy\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais nettoy\u00e9",
+            "Tu": "avais nettoy\u00e9",
+            "Il/Elle": "avait nettoy\u00e9",
+            "Nous": "avions nettoy\u00e9",
+            "Vous": "aviez nettoy\u00e9",
+            "Ils/Elles": "avaient nettoy\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai nettoy\u00e9",
+            "Tu": "auras nettoy\u00e9",
+            "Il/Elle": "aura nettoy\u00e9",
+            "Nous": "aurons nettoy\u00e9",
+            "Vous": "aurez nettoy\u00e9",
+            "Ils/Elles": "auront nettoy\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "nettoie",
+            "Tu": "nettoies",
+            "Il/Elle": "nettoie",
+            "Nous": "nettoyions",
+            "Vous": "nettoyiez",
+            "Ils/Elles": "nettoient"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie nettoy\u00e9",
+            "Tu": "aies nettoy\u00e9",
+            "Il/Elle": "ait nettoy\u00e9",
+            "Nous": "ayons nettoy\u00e9",
+            "Vous": "ayez nettoy\u00e9",
+            "Ils/Elles": "aient nettoy\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "nettoierais",
+            "Tu": "nettoierais",
+            "Il/Elle": "nettoierait",
+            "Nous": "nettoierions",
+            "Vous": "nettoieriez",
+            "Ils/Elles": "nettoieraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais nettoy\u00e9",
+            "Tu": "aurais nettoy\u00e9",
+            "Il/Elle": "aurait nettoy\u00e9",
+            "Nous": "aurions nettoy\u00e9",
+            "Vous": "auriez nettoy\u00e9",
+            "Ils/Elles": "auraient nettoy\u00e9"
+        }
+    },
+    "payer": {
+        "Pr\u00e9sent": {
+            "Je": "payepayes",
+            "Tu": "payepayons",
+            "Il/Elle": "payezpayent",
+            "Nous": "paiepaies",
+            "Vous": "paiepayons",
+            "Ils/Elles": "payezpaient"
+        },
+        "Imparfait": {
+            "Je": "payais",
+            "Tu": "payais",
+            "Il/Elle": "payait",
+            "Nous": "payions",
+            "Vous": "payiez",
+            "Ils/Elles": "payaient"
+        },
+        "Futur": {
+            "Je": "payeraipayeras",
+            "Tu": "payerapayerons",
+            "Il/Elle": "payerezpayeront",
+            "Nous": "paieraipaieras",
+            "Vous": "paierapaierons",
+            "Ils/Elles": "paierezpaieront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai pay\u00e9",
+            "Tu": "as pay\u00e9",
+            "Il/Elle": "a pay\u00e9",
+            "Nous": "avons pay\u00e9",
+            "Vous": "avez pay\u00e9",
+            "Ils/Elles": "ont pay\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais pay\u00e9",
+            "Tu": "avais pay\u00e9",
+            "Il/Elle": "avait pay\u00e9",
+            "Nous": "avions pay\u00e9",
+            "Vous": "aviez pay\u00e9",
+            "Ils/Elles": "avaient pay\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai pay\u00e9",
+            "Tu": "auras pay\u00e9",
+            "Il/Elle": "aura pay\u00e9",
+            "Nous": "aurons pay\u00e9",
+            "Vous": "aurez pay\u00e9",
+            "Ils/Elles": "auront pay\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "payepayes",
+            "Tu": "payepayions",
+            "Il/Elle": "payiezpayent",
+            "Nous": "paiepaies",
+            "Vous": "paiepayions",
+            "Ils/Elles": "payiezpaient"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie pay\u00e9",
+            "Tu": "aies pay\u00e9",
+            "Il/Elle": "ait pay\u00e9",
+            "Nous": "ayons pay\u00e9",
+            "Vous": "ayez pay\u00e9",
+            "Ils/Elles": "aient pay\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "payeraispayerais",
+            "Tu": "payeraitpayerions",
+            "Il/Elle": "payeriezpayeraient",
+            "Nous": "paieraispaierais",
+            "Vous": "paieraitpaierions",
+            "Ils/Elles": "paieriezpaieraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais pay\u00e9",
+            "Tu": "aurais pay\u00e9",
+            "Il/Elle": "aurait pay\u00e9",
+            "Nous": "aurions pay\u00e9",
+            "Vous": "auriez pay\u00e9",
+            "Ils/Elles": "auraient pay\u00e9"
+        }
+    },
+    "acheter": {
+        "Pr\u00e9sent": {
+            "Je": "ach\u00e8te",
+            "Tu": "ach\u00e8tes",
+            "Il/Elle": "ach\u00e8te",
+            "Nous": "achetons",
+            "Vous": "achetez",
+            "Ils/Elles": "ach\u00e8tent"
+        },
+        "Imparfait": {
+            "Je": "achetais",
+            "Tu": "achetais",
+            "Il/Elle": "achetait",
+            "Nous": "achetions",
+            "Vous": "achetiez",
+            "Ils/Elles": "achetaient"
+        },
+        "Futur": {
+            "Je": "ach\u00e8terai",
+            "Tu": "ach\u00e8teras",
+            "Il/Elle": "ach\u00e8tera",
+            "Nous": "ach\u00e8terons",
+            "Vous": "ach\u00e8terez",
+            "Ils/Elles": "ach\u00e8teront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai achet\u00e9",
+            "Tu": "as achet\u00e9",
+            "Il/Elle": "a achet\u00e9",
+            "Nous": "avons achet\u00e9",
+            "Vous": "avez achet\u00e9",
+            "Ils/Elles": "ont achet\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais achet\u00e9",
+            "Tu": "avais achet\u00e9",
+            "Il/Elle": "avait achet\u00e9",
+            "Nous": "avions achet\u00e9",
+            "Vous": "aviez achet\u00e9",
+            "Ils/Elles": "avaient achet\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai achet\u00e9",
+            "Tu": "auras achet\u00e9",
+            "Il/Elle": "aura achet\u00e9",
+            "Nous": "aurons achet\u00e9",
+            "Vous": "aurez achet\u00e9",
+            "Ils/Elles": "auront achet\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "ach\u00e8te",
+            "Tu": "ach\u00e8tes",
+            "Il/Elle": "ach\u00e8te",
+            "Nous": "achetions",
+            "Vous": "achetiez",
+            "Ils/Elles": "ach\u00e8tent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie achet\u00e9",
+            "Tu": "aies achet\u00e9",
+            "Il/Elle": "ait achet\u00e9",
+            "Nous": "ayons achet\u00e9",
+            "Vous": "ayez achet\u00e9",
+            "Ils/Elles": "aient achet\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "ach\u00e8terais",
+            "Tu": "ach\u00e8terais",
+            "Il/Elle": "ach\u00e8terait",
+            "Nous": "ach\u00e8terions",
+            "Vous": "ach\u00e8teriez",
+            "Ils/Elles": "ach\u00e8teraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais achet\u00e9",
+            "Tu": "aurais achet\u00e9",
+            "Il/Elle": "aurait achet\u00e9",
+            "Nous": "aurions achet\u00e9",
+            "Vous": "auriez achet\u00e9",
+            "Ils/Elles": "auraient achet\u00e9"
+        }
+    },
+    "amener": {
+        "Pr\u00e9sent": {
+            "Je": "am\u00e8ne",
+            "Tu": "am\u00e8nes",
+            "Il/Elle": "am\u00e8ne",
+            "Nous": "amenons",
+            "Vous": "amenez",
+            "Ils/Elles": "am\u00e8nent"
+        },
+        "Imparfait": {
+            "Je": "amenais",
+            "Tu": "amenais",
+            "Il/Elle": "amenait",
+            "Nous": "amenions",
+            "Vous": "ameniez",
+            "Ils/Elles": "amenaient"
+        },
+        "Futur": {
+            "Je": "am\u00e8nerai",
+            "Tu": "am\u00e8neras",
+            "Il/Elle": "am\u00e8nera",
+            "Nous": "am\u00e8nerons",
+            "Vous": "am\u00e8nerez",
+            "Ils/Elles": "am\u00e8neront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai amen\u00e9",
+            "Tu": "as amen\u00e9",
+            "Il/Elle": "a amen\u00e9",
+            "Nous": "avons amen\u00e9",
+            "Vous": "avez amen\u00e9",
+            "Ils/Elles": "ont amen\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais amen\u00e9",
+            "Tu": "avais amen\u00e9",
+            "Il/Elle": "avait amen\u00e9",
+            "Nous": "avions amen\u00e9",
+            "Vous": "aviez amen\u00e9",
+            "Ils/Elles": "avaient amen\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai amen\u00e9",
+            "Tu": "auras amen\u00e9",
+            "Il/Elle": "aura amen\u00e9",
+            "Nous": "aurons amen\u00e9",
+            "Vous": "aurez amen\u00e9",
+            "Ils/Elles": "auront amen\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "am\u00e8ne",
+            "Tu": "am\u00e8nes",
+            "Il/Elle": "am\u00e8ne",
+            "Nous": "amenions",
+            "Vous": "ameniez",
+            "Ils/Elles": "am\u00e8nent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie amen\u00e9",
+            "Tu": "aies amen\u00e9",
+            "Il/Elle": "ait amen\u00e9",
+            "Nous": "ayons amen\u00e9",
+            "Vous": "ayez amen\u00e9",
+            "Ils/Elles": "aient amen\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "am\u00e8nerais",
+            "Tu": "am\u00e8nerais",
+            "Il/Elle": "am\u00e8nerait",
+            "Nous": "am\u00e8nerions",
+            "Vous": "am\u00e8neriez",
+            "Ils/Elles": "am\u00e8neraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais amen\u00e9",
+            "Tu": "aurais amen\u00e9",
+            "Il/Elle": "aurait amen\u00e9",
+            "Nous": "aurions amen\u00e9",
+            "Vous": "auriez amen\u00e9",
+            "Ils/Elles": "auraient amen\u00e9"
+        }
+    },
+    "esp\u00e9rer": {
+        "Pr\u00e9sent": {
+            "Je": "esp\u00e8re",
+            "Tu": "esp\u00e8res",
+            "Il/Elle": "esp\u00e8re",
+            "Nous": "esp\u00e9rons",
+            "Vous": "esp\u00e9rez",
+            "Ils/Elles": "esp\u00e8rent"
+        },
+        "Imparfait": {
+            "Je": "esp\u00e9rais",
+            "Tu": "esp\u00e9rais",
+            "Il/Elle": "esp\u00e9rait",
+            "Nous": "esp\u00e9rions",
+            "Vous": "esp\u00e9riez",
+            "Ils/Elles": "esp\u00e9raient"
+        },
+        "Futur": {
+            "Je": "esp\u00e9rerai",
+            "Tu": "esp\u00e9reras",
+            "Il/Elle": "esp\u00e9rera",
+            "Nous": "esp\u00e9rerons",
+            "Vous": "esp\u00e9rerez",
+            "Ils/Elles": "esp\u00e9reront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai esp\u00e9r\u00e9",
+            "Tu": "as esp\u00e9r\u00e9",
+            "Il/Elle": "a esp\u00e9r\u00e9",
+            "Nous": "avons esp\u00e9r\u00e9",
+            "Vous": "avez esp\u00e9r\u00e9",
+            "Ils/Elles": "ont esp\u00e9r\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais esp\u00e9r\u00e9",
+            "Tu": "avais esp\u00e9r\u00e9",
+            "Il/Elle": "avait esp\u00e9r\u00e9",
+            "Nous": "avions esp\u00e9r\u00e9",
+            "Vous": "aviez esp\u00e9r\u00e9",
+            "Ils/Elles": "avaient esp\u00e9r\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai esp\u00e9r\u00e9",
+            "Tu": "auras esp\u00e9r\u00e9",
+            "Il/Elle": "aura esp\u00e9r\u00e9",
+            "Nous": "aurons esp\u00e9r\u00e9",
+            "Vous": "aurez esp\u00e9r\u00e9",
+            "Ils/Elles": "auront esp\u00e9r\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "esp\u00e8re",
+            "Tu": "esp\u00e8res",
+            "Il/Elle": "esp\u00e8re",
+            "Nous": "esp\u00e9rions",
+            "Vous": "esp\u00e9riez",
+            "Ils/Elles": "esp\u00e8rent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie esp\u00e9r\u00e9",
+            "Tu": "aies esp\u00e9r\u00e9",
+            "Il/Elle": "ait esp\u00e9r\u00e9",
+            "Nous": "ayons esp\u00e9r\u00e9",
+            "Vous": "ayez esp\u00e9r\u00e9",
+            "Ils/Elles": "aient esp\u00e9r\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "esp\u00e9rerais",
+            "Tu": "esp\u00e9rerais",
+            "Il/Elle": "esp\u00e9rerait",
+            "Nous": "esp\u00e9rerions",
+            "Vous": "esp\u00e9reriez",
+            "Ils/Elles": "esp\u00e9reraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais esp\u00e9r\u00e9",
+            "Tu": "aurais esp\u00e9r\u00e9",
+            "Il/Elle": "aurait esp\u00e9r\u00e9",
+            "Nous": "aurions esp\u00e9r\u00e9",
+            "Vous": "auriez esp\u00e9r\u00e9",
+            "Ils/Elles": "auraient esp\u00e9r\u00e9"
+        }
+    },
+    "geler": {
+        "Pr\u00e9sent": {
+            "Je": "g\u00e8le",
+            "Tu": "g\u00e8les",
+            "Il/Elle": "g\u00e8le",
+            "Nous": "gelons",
+            "Vous": "gelez",
+            "Ils/Elles": "g\u00e8lent"
+        },
+        "Imparfait": {
+            "Je": "gelais",
+            "Tu": "gelais",
+            "Il/Elle": "gelait",
+            "Nous": "gelions",
+            "Vous": "geliez",
+            "Ils/Elles": "gelaient"
+        },
+        "Futur": {
+            "Je": "g\u00e8lerai",
+            "Tu": "g\u00e8leras",
+            "Il/Elle": "g\u00e8lera",
+            "Nous": "g\u00e8lerons",
+            "Vous": "g\u00e8lerez",
+            "Ils/Elles": "g\u00e8leront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai gel\u00e9",
+            "Tu": "as gel\u00e9",
+            "Il/Elle": "a gel\u00e9",
+            "Nous": "avons gel\u00e9",
+            "Vous": "avez gel\u00e9",
+            "Ils/Elles": "ont gel\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais gel\u00e9",
+            "Tu": "avais gel\u00e9",
+            "Il/Elle": "avait gel\u00e9",
+            "Nous": "avions gel\u00e9",
+            "Vous": "aviez gel\u00e9",
+            "Ils/Elles": "avaient gel\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai gel\u00e9",
+            "Tu": "auras gel\u00e9",
+            "Il/Elle": "aura gel\u00e9",
+            "Nous": "aurons gel\u00e9",
+            "Vous": "aurez gel\u00e9",
+            "Ils/Elles": "auront gel\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "g\u00e8le",
+            "Tu": "g\u00e8les",
+            "Il/Elle": "g\u00e8le",
+            "Nous": "gelions",
+            "Vous": "geliez",
+            "Ils/Elles": "g\u00e8lent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie gel\u00e9",
+            "Tu": "aies gel\u00e9",
+            "Il/Elle": "ait gel\u00e9",
+            "Nous": "ayons gel\u00e9",
+            "Vous": "ayez gel\u00e9",
+            "Ils/Elles": "aient gel\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "g\u00e8lerais",
+            "Tu": "g\u00e8lerais",
+            "Il/Elle": "g\u00e8lerait",
+            "Nous": "g\u00e8lerions",
+            "Vous": "g\u00e8leriez",
+            "Ils/Elles": "g\u00e8leraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais gel\u00e9",
+            "Tu": "aurais gel\u00e9",
+            "Il/Elle": "aurait gel\u00e9",
+            "Nous": "aurions gel\u00e9",
+            "Vous": "auriez gel\u00e9",
+            "Ils/Elles": "auraient gel\u00e9"
+        }
+    },
+    "pr\u00e9f\u00e9rer": {
+        "Pr\u00e9sent": {
+            "Je": "pr\u00e9f\u00e8re",
+            "Tu": "pr\u00e9f\u00e8res",
+            "Il/Elle": "pr\u00e9f\u00e8re",
+            "Nous": "pr\u00e9f\u00e9rons",
+            "Vous": "pr\u00e9f\u00e9rez",
+            "Ils/Elles": "pr\u00e9f\u00e8rent"
+        },
+        "Imparfait": {
+            "Je": "pr\u00e9f\u00e9rais",
+            "Tu": "pr\u00e9f\u00e9rais",
+            "Il/Elle": "pr\u00e9f\u00e9rait",
+            "Nous": "pr\u00e9f\u00e9rions",
+            "Vous": "pr\u00e9f\u00e9riez",
+            "Ils/Elles": "pr\u00e9f\u00e9raient"
+        },
+        "Futur": {
+            "Je": "pr\u00e9f\u00e9rerai",
+            "Tu": "pr\u00e9f\u00e9reras",
+            "Il/Elle": "pr\u00e9f\u00e9rera",
+            "Nous": "pr\u00e9f\u00e9rerons",
+            "Vous": "pr\u00e9f\u00e9rerez",
+            "Ils/Elles": "pr\u00e9f\u00e9reront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai pr\u00e9f\u00e9r\u00e9",
+            "Tu": "as pr\u00e9f\u00e9r\u00e9",
+            "Il/Elle": "a pr\u00e9f\u00e9r\u00e9",
+            "Nous": "avons pr\u00e9f\u00e9r\u00e9",
+            "Vous": "avez pr\u00e9f\u00e9r\u00e9",
+            "Ils/Elles": "ont pr\u00e9f\u00e9r\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais pr\u00e9f\u00e9r\u00e9",
+            "Tu": "avais pr\u00e9f\u00e9r\u00e9",
+            "Il/Elle": "avait pr\u00e9f\u00e9r\u00e9",
+            "Nous": "avions pr\u00e9f\u00e9r\u00e9",
+            "Vous": "aviez pr\u00e9f\u00e9r\u00e9",
+            "Ils/Elles": "avaient pr\u00e9f\u00e9r\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai pr\u00e9f\u00e9r\u00e9",
+            "Tu": "auras pr\u00e9f\u00e9r\u00e9",
+            "Il/Elle": "aura pr\u00e9f\u00e9r\u00e9",
+            "Nous": "aurons pr\u00e9f\u00e9r\u00e9",
+            "Vous": "aurez pr\u00e9f\u00e9r\u00e9",
+            "Ils/Elles": "auront pr\u00e9f\u00e9r\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "pr\u00e9f\u00e8re",
+            "Tu": "pr\u00e9f\u00e8res",
+            "Il/Elle": "pr\u00e9f\u00e8re",
+            "Nous": "pr\u00e9f\u00e9rions",
+            "Vous": "pr\u00e9f\u00e9riez",
+            "Ils/Elles": "pr\u00e9f\u00e8rent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie pr\u00e9f\u00e9r\u00e9",
+            "Tu": "aies pr\u00e9f\u00e9r\u00e9",
+            "Il/Elle": "ait pr\u00e9f\u00e9r\u00e9",
+            "Nous": "ayons pr\u00e9f\u00e9r\u00e9",
+            "Vous": "ayez pr\u00e9f\u00e9r\u00e9",
+            "Ils/Elles": "aient pr\u00e9f\u00e9r\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "pr\u00e9f\u00e9rerais",
+            "Tu": "pr\u00e9f\u00e9rerais",
+            "Il/Elle": "pr\u00e9f\u00e9rerait",
+            "Nous": "pr\u00e9f\u00e9rerions",
+            "Vous": "pr\u00e9f\u00e9reriez",
+            "Ils/Elles": "pr\u00e9f\u00e9reraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais pr\u00e9f\u00e9r\u00e9",
+            "Tu": "aurais pr\u00e9f\u00e9r\u00e9",
+            "Il/Elle": "aurait pr\u00e9f\u00e9r\u00e9",
+            "Nous": "aurions pr\u00e9f\u00e9r\u00e9",
+            "Vous": "auriez pr\u00e9f\u00e9r\u00e9",
+            "Ils/Elles": "auraient pr\u00e9f\u00e9r\u00e9"
+        }
+    },
+    "r\u00e9p\u00e9ter": {
+        "Pr\u00e9sent": {
+            "Je": "r\u00e9p\u00e8te",
+            "Tu": "r\u00e9p\u00e8tes",
+            "Il/Elle": "r\u00e9p\u00e8te",
+            "Nous": "r\u00e9p\u00e9tons",
+            "Vous": "r\u00e9p\u00e9tez",
+            "Ils/Elles": "r\u00e9p\u00e8tent"
+        },
+        "Imparfait": {
+            "Je": "r\u00e9p\u00e9tais",
+            "Tu": "r\u00e9p\u00e9tais",
+            "Il/Elle": "r\u00e9p\u00e9tait",
+            "Nous": "r\u00e9p\u00e9tions",
+            "Vous": "r\u00e9p\u00e9tiez",
+            "Ils/Elles": "r\u00e9p\u00e9taient"
+        },
+        "Futur": {
+            "Je": "r\u00e9p\u00e9terai",
+            "Tu": "r\u00e9p\u00e9teras",
+            "Il/Elle": "r\u00e9p\u00e9tera",
+            "Nous": "r\u00e9p\u00e9terons",
+            "Vous": "r\u00e9p\u00e9terez",
+            "Ils/Elles": "r\u00e9p\u00e9teront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai r\u00e9p\u00e9t\u00e9",
+            "Tu": "as r\u00e9p\u00e9t\u00e9",
+            "Il/Elle": "a r\u00e9p\u00e9t\u00e9",
+            "Nous": "avons r\u00e9p\u00e9t\u00e9",
+            "Vous": "avez r\u00e9p\u00e9t\u00e9",
+            "Ils/Elles": "ont r\u00e9p\u00e9t\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais r\u00e9p\u00e9t\u00e9",
+            "Tu": "avais r\u00e9p\u00e9t\u00e9",
+            "Il/Elle": "avait r\u00e9p\u00e9t\u00e9",
+            "Nous": "avions r\u00e9p\u00e9t\u00e9",
+            "Vous": "aviez r\u00e9p\u00e9t\u00e9",
+            "Ils/Elles": "avaient r\u00e9p\u00e9t\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai r\u00e9p\u00e9t\u00e9",
+            "Tu": "auras r\u00e9p\u00e9t\u00e9",
+            "Il/Elle": "aura r\u00e9p\u00e9t\u00e9",
+            "Nous": "aurons r\u00e9p\u00e9t\u00e9",
+            "Vous": "aurez r\u00e9p\u00e9t\u00e9",
+            "Ils/Elles": "auront r\u00e9p\u00e9t\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "r\u00e9p\u00e8te",
+            "Tu": "r\u00e9p\u00e8tes",
+            "Il/Elle": "r\u00e9p\u00e8te",
+            "Nous": "r\u00e9p\u00e9tions",
+            "Vous": "r\u00e9p\u00e9tiez",
+            "Ils/Elles": "r\u00e9p\u00e8tent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie r\u00e9p\u00e9t\u00e9",
+            "Tu": "aies r\u00e9p\u00e9t\u00e9",
+            "Il/Elle": "ait r\u00e9p\u00e9t\u00e9",
+            "Nous": "ayons r\u00e9p\u00e9t\u00e9",
+            "Vous": "ayez r\u00e9p\u00e9t\u00e9",
+            "Ils/Elles": "aient r\u00e9p\u00e9t\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "r\u00e9p\u00e9terais",
+            "Tu": "r\u00e9p\u00e9terais",
+            "Il/Elle": "r\u00e9p\u00e9terait",
+            "Nous": "r\u00e9p\u00e9terions",
+            "Vous": "r\u00e9p\u00e9teriez",
+            "Ils/Elles": "r\u00e9p\u00e9teraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais r\u00e9p\u00e9t\u00e9",
+            "Tu": "aurais r\u00e9p\u00e9t\u00e9",
+            "Il/Elle": "aurait r\u00e9p\u00e9t\u00e9",
+            "Nous": "aurions r\u00e9p\u00e9t\u00e9",
+            "Vous": "auriez r\u00e9p\u00e9t\u00e9",
+            "Ils/Elles": "auraient r\u00e9p\u00e9t\u00e9"
+        }
+    },
+    "sugg\u00e9rer": {
+        "Pr\u00e9sent": {
+            "Je": "sugg\u00e8re",
+            "Tu": "sugg\u00e8res",
+            "Il/Elle": "sugg\u00e8re",
+            "Nous": "sugg\u00e9rons",
+            "Vous": "sugg\u00e9rez",
+            "Ils/Elles": "sugg\u00e8rent"
+        },
+        "Imparfait": {
+            "Je": "sugg\u00e9rais",
+            "Tu": "sugg\u00e9rais",
+            "Il/Elle": "sugg\u00e9rait",
+            "Nous": "sugg\u00e9rions",
+            "Vous": "sugg\u00e9riez",
+            "Ils/Elles": "sugg\u00e9raient"
+        },
+        "Futur": {
+            "Je": "sugg\u00e9rerai",
+            "Tu": "sugg\u00e9reras",
+            "Il/Elle": "sugg\u00e9rera",
+            "Nous": "sugg\u00e9rerons",
+            "Vous": "sugg\u00e9rerez",
+            "Ils/Elles": "sugg\u00e9reront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai sugg\u00e9r\u00e9",
+            "Tu": "as sugg\u00e9r\u00e9",
+            "Il/Elle": "a sugg\u00e9r\u00e9",
+            "Nous": "avons sugg\u00e9r\u00e9",
+            "Vous": "avez sugg\u00e9r\u00e9",
+            "Ils/Elles": "ont sugg\u00e9r\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais sugg\u00e9r\u00e9",
+            "Tu": "avais sugg\u00e9r\u00e9",
+            "Il/Elle": "avait sugg\u00e9r\u00e9",
+            "Nous": "avions sugg\u00e9r\u00e9",
+            "Vous": "aviez sugg\u00e9r\u00e9",
+            "Ils/Elles": "avaient sugg\u00e9r\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai sugg\u00e9r\u00e9",
+            "Tu": "auras sugg\u00e9r\u00e9",
+            "Il/Elle": "aura sugg\u00e9r\u00e9",
+            "Nous": "aurons sugg\u00e9r\u00e9",
+            "Vous": "aurez sugg\u00e9r\u00e9",
+            "Ils/Elles": "auront sugg\u00e9r\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "sugg\u00e8re",
+            "Tu": "sugg\u00e8res",
+            "Il/Elle": "sugg\u00e8re",
+            "Nous": "sugg\u00e9rions",
+            "Vous": "sugg\u00e9riez",
+            "Ils/Elles": "sugg\u00e8rent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie sugg\u00e9r\u00e9",
+            "Tu": "aies sugg\u00e9r\u00e9",
+            "Il/Elle": "ait sugg\u00e9r\u00e9",
+            "Nous": "ayons sugg\u00e9r\u00e9",
+            "Vous": "ayez sugg\u00e9r\u00e9",
+            "Ils/Elles": "aient sugg\u00e9r\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "sugg\u00e9rerais",
+            "Tu": "sugg\u00e9rerais",
+            "Il/Elle": "sugg\u00e9rerait",
+            "Nous": "sugg\u00e9rerions",
+            "Vous": "sugg\u00e9reriez",
+            "Ils/Elles": "sugg\u00e9reraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais sugg\u00e9r\u00e9",
+            "Tu": "aurais sugg\u00e9r\u00e9",
+            "Il/Elle": "aurait sugg\u00e9r\u00e9",
+            "Nous": "aurions sugg\u00e9r\u00e9",
+            "Vous": "auriez sugg\u00e9r\u00e9",
+            "Ils/Elles": "auraient sugg\u00e9r\u00e9"
+        }
+    },
+    "appeler": {
+        "Pr\u00e9sent": {
+            "Je": "appelle",
+            "Tu": "appelles",
+            "Il/Elle": "appelle",
+            "Nous": "appelons",
+            "Vous": "appelez",
+            "Ils/Elles": "appellent"
+        },
+        "Imparfait": {
+            "Je": "appelais",
+            "Tu": "appelais",
+            "Il/Elle": "appelait",
+            "Nous": "appelions",
+            "Vous": "appeliez",
+            "Ils/Elles": "appelaient"
+        },
+        "Futur": {
+            "Je": "appellerai",
+            "Tu": "appelleras",
+            "Il/Elle": "appellera",
+            "Nous": "appellerons",
+            "Vous": "appellerez",
+            "Ils/Elles": "appelleront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai appel\u00e9",
+            "Tu": "as appel\u00e9",
+            "Il/Elle": "a appel\u00e9",
+            "Nous": "avons appel\u00e9",
+            "Vous": "avez appel\u00e9",
+            "Ils/Elles": "ont appel\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais appel\u00e9",
+            "Tu": "avais appel\u00e9",
+            "Il/Elle": "avait appel\u00e9",
+            "Nous": "avions appel\u00e9",
+            "Vous": "aviez appel\u00e9",
+            "Ils/Elles": "avaient appel\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai appel\u00e9",
+            "Tu": "auras appel\u00e9",
+            "Il/Elle": "aura appel\u00e9",
+            "Nous": "aurons appel\u00e9",
+            "Vous": "aurez appel\u00e9",
+            "Ils/Elles": "auront appel\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "appelle",
+            "Tu": "appelles",
+            "Il/Elle": "appelle",
+            "Nous": "appelions",
+            "Vous": "appeliez",
+            "Ils/Elles": "appellent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie appel\u00e9",
+            "Tu": "aies appel\u00e9",
+            "Il/Elle": "ait appel\u00e9",
+            "Nous": "ayons appel\u00e9",
+            "Vous": "ayez appel\u00e9",
+            "Ils/Elles": "aient appel\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "appellerais",
+            "Tu": "appellerais",
+            "Il/Elle": "appellerait",
+            "Nous": "appellerions",
+            "Vous": "appelleriez",
+            "Ils/Elles": "appelleraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais appel\u00e9",
+            "Tu": "aurais appel\u00e9",
+            "Il/Elle": "aurait appel\u00e9",
+            "Nous": "aurions appel\u00e9",
+            "Vous": "auriez appel\u00e9",
+            "Ils/Elles": "auraient appel\u00e9"
+        }
+    },
+    "jeter": {
+        "Pr\u00e9sent": {
+            "Je": "jette",
+            "Tu": "jettes",
+            "Il/Elle": "jette",
+            "Nous": "jetons",
+            "Vous": "jetez",
+            "Ils/Elles": "jettent"
+        },
+        "Imparfait": {
+            "Je": "jetais",
+            "Tu": "jetais",
+            "Il/Elle": "jetait",
+            "Nous": "jetions",
+            "Vous": "jetiez",
+            "Ils/Elles": "jetaient"
+        },
+        "Futur": {
+            "Je": "jetterai",
+            "Tu": "jetteras",
+            "Il/Elle": "jettera",
+            "Nous": "jetterons",
+            "Vous": "jetterez",
+            "Ils/Elles": "jetteront"
+        },
+        "Pass\u00e9 Compos\u00e9": {
+            "Je": "ai jet\u00e9",
+            "Tu": "as jet\u00e9",
+            "Il/Elle": "a jet\u00e9",
+            "Nous": "avons jet\u00e9",
+            "Vous": "avez jet\u00e9",
+            "Ils/Elles": "ont jet\u00e9"
+        },
+        "Plus que Parfait": {
+            "Je": "avais jet\u00e9",
+            "Tu": "avais jet\u00e9",
+            "Il/Elle": "avait jet\u00e9",
+            "Nous": "avions jet\u00e9",
+            "Vous": "aviez jet\u00e9",
+            "Ils/Elles": "avaient jet\u00e9"
+        },
+        "Futur Ant\u00e9rieur": {
+            "Je": "aurai jet\u00e9",
+            "Tu": "auras jet\u00e9",
+            "Il/Elle": "aura jet\u00e9",
+            "Nous": "aurons jet\u00e9",
+            "Vous": "aurez jet\u00e9",
+            "Ils/Elles": "auront jet\u00e9"
+        },
+        "Subjonctif Pr\u00e9sent": {
+            "Je": "jette",
+            "Tu": "jettes",
+            "Il/Elle": "jette",
+            "Nous": "jetions",
+            "Vous": "jetiez",
+            "Ils/Elles": "jettent"
+        },
+        "Subjonctif Pass\u00e9": {
+            "Je": "aie jet\u00e9",
+            "Tu": "aies jet\u00e9",
+            "Il/Elle": "ait jet\u00e9",
+            "Nous": "ayons jet\u00e9",
+            "Vous": "ayez jet\u00e9",
+            "Ils/Elles": "aient jet\u00e9"
+        },
+        "Conditionnel Pr\u00e9sent": {
+            "Je": "jetterais",
+            "Tu": "jetterais",
+            "Il/Elle": "jetterait",
+            "Nous": "jetterions",
+            "Vous": "jetteriez",
+            "Ils/Elles": "jetteraient"
+        },
+        "Conditionnel Pass\u00e9": {
+            "Je": "aurais jet\u00e9",
+            "Tu": "aurais jet\u00e9",
+            "Il/Elle": "aurait jet\u00e9",
+            "Nous": "aurions jet\u00e9",
+            "Vous": "auriez jet\u00e9",
+            "Ils/Elles": "auraient jet\u00e9"
+        }
+    }
+}

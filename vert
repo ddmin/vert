@@ -4,6 +4,9 @@
 
 # system
 import sys
+import os
+import json
+import random
 
 # webscraping
 import requests
@@ -11,8 +14,14 @@ from bs4 import BeautifulSoup
 
 # A E S T H E T I C
 from rich import print as rprint
+from rich.text import Text
 from rich.console import Console
+
+from rich.panel import Panel
 from rich.table import Table
+from progress.bar import Bar
+
+QUIZ = '/home/ddmin/Code/Python/Vert/conjugation.json'
 
 names = [
             'Présent',
@@ -133,17 +142,63 @@ def format_table(verb, conj):
     console = Console()
     console.print(table)
 
+
 def info():
         rprint('[#90ee90]vert[/#90ee90]: french conjugation terminal utility\n')
-        rprint('usage: [#90ee90]vert[/#90ee90] [#ffc0cb][-c] \[verb][/#ffc0cb] [#87ceeb][-q] \[list][/#87ceeb] [-h]\n')
+        rprint('usage: [#90ee90]vert[/#90ee90] [#ffc0cb][-c] \[verb][/#ffc0cb] [#87ceeb][-q][/#87ceeb] [-h]\n')
         rprint('-h           : display this message and exit')
         rprint('[#ffc0cb]-c[/#ffc0cb]           : conjugation mode')
         rprint('    verb     : verb to conjugate')
         rprint('[#87ceeb]-q[/#87ceeb]           : quiz mode')
-        rprint('    list     : list to use for quiz')
+
+# for generating conjugations file
+def generate_conj():
+    with open('list.txt', 'r') as f:
+        verbs = f.read().split('\n')
+
+    verbs = list(filter(lambda x: x, verbs))
+
+    dic = {}
+    bar = Bar('Generating Conjugations File...', max=len(verbs))
+
+    for verb in verbs:
+        verb, soup = get_infinitive(verb)
+        conj = get_conj(verb, soup)
+        dic[verb] = conj
+        bar.next()
+
+    with open(QUIZ, 'w') as f:
+        json.dump(dic, f, indent=4)
+
+def quiz():
+    if not os.path.isfile(QUIZ):
+        generate_conj()
+
+    with open(QUIZ, 'r') as f:
+        file = f.read()
+    file = json.loads(file)
+
+    rprint(Panel(Text('Conjugation Quiz', justify='center', style='#77dd77')))
+
+    # quiz loop
+    while True:
+        verb = random.choice(list(file))
+        tense = random.choice(list(file[verb]))
+        pronoun = random.choice(list(file[verb][tense]))
+        answer = file[verb][tense][pronoun]
+        blank = ' '.join(list(map(lambda x: '_' * len(x), answer.split())))
+
+        print('Tense: ' + tense)
+        print(f'{pronoun} {blank} ({verb})')
+
+        reply = input('> ')
+
+        print()
+        print('Answer: ' + answer)
+        print()
 
 def main():
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 2:
         info()
         sys.exit()
 
@@ -152,11 +207,13 @@ def main():
         sys.exit()
 
     elif '-q' in sys.argv:
-        lst = sys.argv[sys.argv.index('-q') + 1]
-        print('Quiz Mode')
-        print(lst)
+        lst = sys.argv[sys.argv.index('-q')]
+        quiz()
 
     elif '-c' in sys.argv:
+        if len(sys.argv) < 3:
+            info()
+            sys.exit()
         verb = sys.argv[sys.argv.index('-c') + 1]
         inf, soup = get_infinitive(verb)
 

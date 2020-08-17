@@ -8,6 +8,9 @@ import os
 import json
 import random
 
+# accent handling
+from diacritic import diacritic
+
 # webscraping
 import requests
 from bs4 import BeautifulSoup
@@ -96,10 +99,14 @@ def get_conj(verb, soup):
             a = list(map(lambda x: x.text, a))
 
             if len(a) == 12:
-                temp = []
-                for i in range(6):
-                    temp.append(a[2*i] + a[2*i + 1])
-                a = temp
+                if not ' ' in a[0]:
+                    a = a[:6]
+
+                else:
+                    temp = []
+                    for i in range(6):
+                        temp.append(a[2*i] + a[2*i + 1])
+                    a = temp
 
             elif len(a) == 16:
                 temp = []
@@ -181,21 +188,29 @@ def quiz():
     rprint(Panel(Text('Conjugation Quiz', justify='center', style='#77dd77')))
 
     # quiz loop
-    while True:
-        verb = random.choice(list(file))
-        tense = random.choice(list(file[verb]))
-        pronoun = random.choice(list(file[verb][tense]))
-        answer = file[verb][tense][pronoun]
-        blank = ' '.join(list(map(lambda x: '_' * len(x), answer.split())))
+    try:
+        while True:
+            verb = random.choice(list(file))
+            tense = random.choice(list(file[verb]))
+            pronoun = random.choice(list(file[verb][tense]))
+            answer = file[verb][tense][pronoun]
 
-        print('Tense: ' + tense)
-        print(f'{pronoun} {blank} ({verb})')
+            rprint('Tense: ' + '[#87ceeb]' + tense)
+            print(f'{pronoun} ________ ({verb})')
 
-        reply = input('> ')
+            reply = input('> ')
 
+            print()
+            if answer == diacritic(reply):
+                rprint('[#77dd77]Correct!')
+            else:
+                rprint('[#ff0000]Incorrect')
+                print('Answer: ' + answer)
+            print()
+
+    except EOFError:
         print()
-        print('Answer: ' + answer)
-        print()
+        pass
 
 def main():
     if len(sys.argv) < 2:

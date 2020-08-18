@@ -411,12 +411,12 @@
     },
     "pouvoir": {
         "Pr\u00e9sent": {
-            "Je": "peuxpeux",
-            "Tu": "peutpouvons",
-            "Il/Elle": "pouvezpeuvent",
-            "Nous": "puispeux",
-            "Vous": "peutpouvons",
-            "Ils/Elles": "pouvezpeuvent"
+            "Je": "peux",
+            "Tu": "peux",
+            "Il/Elle": "peut",
+            "Nous": "pouvons",
+            "Vous": "pouvez",
+            "Ils/Elles": "peuvent"
         },
         "Imparfait": {
             "Je": "pouvais",
@@ -4101,12 +4101,12 @@
     },
     "effrayer": {
         "Pr\u00e9sent": {
-            "Je": "effrayeeffrayes",
-            "Tu": "effrayeeffrayons",
-            "Il/Elle": "effrayezeffrayent",
-            "Nous": "effraieeffraies",
-            "Vous": "effraieeffrayons",
-            "Ils/Elles": "effrayezeffraient"
+            "Je": "effraye",
+            "Tu": "effrayes",
+            "Il/Elle": "effraye",
+            "Nous": "effrayons",
+            "Vous": "effrayez",
+            "Ils/Elles": "effrayent"
         },
         "Imparfait": {
             "Je": "effrayais",
@@ -4117,12 +4117,12 @@
             "Ils/Elles": "effrayaient"
         },
         "Futur": {
-            "Je": "effrayeraieffrayeras",
-            "Tu": "effrayeraeffrayerons",
-            "Il/Elle": "effrayerezeffrayeront",
-            "Nous": "effraieraieffraieras",
-            "Vous": "effraieraeffraierons",
-            "Ils/Elles": "effraierezeffraieront"
+            "Je": "effrayerai",
+            "Tu": "effrayeras",
+            "Il/Elle": "effrayera",
+            "Nous": "effrayerons",
+            "Vous": "effrayerez",
+            "Ils/Elles": "effrayeront"
         },
         "Pass\u00e9 Compos\u00e9": {
             "Je": "ai effray\u00e9",
@@ -4149,12 +4149,12 @@
             "Ils/Elles": "auront effray\u00e9"
         },
         "Subjonctif Pr\u00e9sent": {
-            "Je": "effrayeeffrayes",
-            "Tu": "effrayeeffrayions",
-            "Il/Elle": "effrayiezeffrayent",
-            "Nous": "effraieeffraies",
-            "Vous": "effraieeffrayions",
-            "Ils/Elles": "effrayiezeffraient"
+            "Je": "effraye",
+            "Tu": "effrayes",
+            "Il/Elle": "effraye",
+            "Nous": "effrayions",
+            "Vous": "effrayiez",
+            "Ils/Elles": "effrayent"
         },
         "Subjonctif Pass\u00e9": {
             "Je": "aie effray\u00e9",
@@ -4165,12 +4165,12 @@
             "Ils/Elles": "aient effray\u00e9"
         },
         "Conditionnel Pr\u00e9sent": {
-            "Je": "effrayeraiseffrayerais",
-            "Tu": "effrayeraiteffrayerions",
-            "Il/Elle": "effrayeriezeffrayeraient",
-            "Nous": "effraieraiseffraierais",
-            "Vous": "effraieraiteffraierions",
-            "Ils/Elles": "effraieriezeffraieraient"
+            "Je": "effrayerais",
+            "Tu": "effrayerais",
+            "Il/Elle": "effrayerait",
+            "Nous": "effrayerions",
+            "Vous": "effrayeriez",
+            "Ils/Elles": "effrayeraient"
         },
         "Conditionnel Pass\u00e9": {
             "Je": "aurais effray\u00e9",
@@ -4265,12 +4265,12 @@
     },
     "essayer": {
         "Pr\u00e9sent": {
-            "Je": "essayeessayes",
-            "Tu": "essayeessayons",
-            "Il/Elle": "essayezessayent",
-            "Nous": "essaieessaies",
-            "Vous": "essaieessayons",
-            "Ils/Elles": "essayezessaient"
+            "Je": "essaye",
+            "Tu": "essayes",
+            "Il/Elle": "essaye",
+            "Nous": "essayons",
+            "Vous": "essayez",
+            "Ils/Elles": "essayent"
         },
         "Imparfait": {
             "Je": "essayais",
@@ -4281,12 +4281,12 @@
             "Ils/Elles": "essayaient"
         },
         "Futur": {
-            "Je": "essayeraiessayeras",
-            "Tu": "essayeraessayerons",
-            "Il/Elle": "essayerezessayeront",
-            "Nous": "essaieraiessaieras",
-            "Vous": "essaieraessaierons",
-            "Ils/Elles": "essaierezessaieront"
+            "Je": "essayerai",
+            "Tu": "essayeras",
+            "Il/Elle": "essayera",
+            "Nous": "essayerons",
+            "Vous": "essayerez",
+            "Ils/Elles": "essayeront"
         },
         "Pass\u00e9 Compos\u00e9": {
             "Je": "ai essay\u00e9",
@@ -4313,12 +4313,12 @@
             "Ils/Elles": "auront essay\u00e9"
         },
         "Subjonctif Pr\u00e9sent": {
-            "Je": "essayeessayes",
-            "Tu": "essayeessayions",
-            "Il/Elle": "essayiezessayent",
-            "Nous": "essaieessaies",
-            "Vous": "essaieessayions",
-            "Ils/Elles": "essayiezessaient"
+            "Je": "essaye",
+            "Tu": "essayes",
+            "Il/Elle": "essaye",
+            "Nous": "essayions",
+            "Vous": "essayiez",
+            "Ils/Elles": "essayent"
         },
         "Subjonctif Pass\u00e9": {
             "Je": "aie essay\u00e9",
@@ -4329,12 +4329,12 @@
             "Ils/Elles": "aient essay\u00e9"
         },
         "Conditionnel Pr\u00e9sent": {
-            "Je": "essayeraisessayerais",
-            "Tu": "essayeraitessayerions",
-            "Il/Elle": "essayeriezessayeraient",
-            "Nous": "essaieraisessaierais",
-            "Vous": "essaieraitessaierions",
-            "Ils/Elles": "essaieriezessaieraient"
+            "Je": "essayerais",
+            "Tu": "essayerais",
+            "Il/Elle": "essayerait",
+            "Nous": "essayerions",
+            "Vous": "essayeriez",
+            "Ils/Elles": "essayeraient"
         },
         "Conditionnel Pass\u00e9": {
             "Je": "aurais essay\u00e9",
@@ -4429,12 +4429,12 @@
     },
     "payer": {
         "Pr\u00e9sent": {
-            "Je": "payepayes",
-            "Tu": "payepayons",
-            "Il/Elle": "payezpayent",
-            "Nous": "paiepaies",
-            "Vous": "paiepayons",
-            "Ils/Elles": "payezpaient"
+            "Je": "paye",
+            "Tu": "payes",
+            "Il/Elle": "paye",
+            "Nous": "payons",
+            "Vous": "payez",
+            "Ils/Elles": "payent"
         },
         "Imparfait": {
             "Je": "payais",
@@ -4445,12 +4445,12 @@
             "Ils/Elles": "payaient"
         },
         "Futur": {
-            "Je": "payeraipayeras",
-            "Tu": "payerapayerons",
-            "Il/Elle": "payerezpayeront",
-            "Nous": "paieraipaieras",
-            "Vous": "paierapaierons",
-            "Ils/Elles": "paierezpaieront"
+            "Je": "payerai",
+            "Tu": "payeras",
+            "Il/Elle": "payera",
+            "Nous": "payerons",
+            "Vous": "payerez",
+            "Ils/Elles": "payeront"
         },
         "Pass\u00e9 Compos\u00e9": {
             "Je": "ai pay\u00e9",
@@ -4477,12 +4477,12 @@
             "Ils/Elles": "auront pay\u00e9"
         },
         "Subjonctif Pr\u00e9sent": {
-            "Je": "payepayes",
-            "Tu": "payepayions",
-            "Il/Elle": "payiezpayent",
-            "Nous": "paiepaies",
-            "Vous": "paiepayions",
-            "Ils/Elles": "payiezpaient"
+            "Je": "paye",
+            "Tu": "payes",
+            "Il/Elle": "paye",
+            "Nous": "payions",
+            "Vous": "payiez",
+            "Ils/Elles": "payent"
         },
         "Subjonctif Pass\u00e9": {
             "Je": "aie pay\u00e9",
@@ -4493,12 +4493,12 @@
             "Ils/Elles": "aient pay\u00e9"
         },
         "Conditionnel Pr\u00e9sent": {
-            "Je": "payeraispayerais",
-            "Tu": "payeraitpayerions",
-            "Il/Elle": "payeriezpayeraient",
-            "Nous": "paieraispaierais",
-            "Vous": "paieraitpaierions",
-            "Ils/Elles": "paieriezpaieraient"
+            "Je": "payerais",
+            "Tu": "payerais",
+            "Il/Elle": "payerait",
+            "Nous": "payerions",
+            "Vous": "payeriez",
+            "Ils/Elles": "payeraient"
         },
         "Conditionnel Pass\u00e9": {
             "Je": "aurais pay\u00e9",

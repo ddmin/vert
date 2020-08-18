@@ -180,6 +180,7 @@ def generate_conj():
 def quiz():
     if not os.path.isfile(QUIZ):
         generate_conj()
+        print()
 
     with open(QUIZ, 'r') as f:
         file = f.read()
@@ -187,11 +188,26 @@ def quiz():
 
     rprint(Panel(Text('Conjugation Quiz', justify='center', style='#77dd77')))
 
+    print('Choose which tenses to test (leave blank to test all)')
+    for n, i in enumerate(names):
+        print(f'{n+1}. {i}')
+
+    print()
+    include = input('> ').strip()
+    print()
+
+    if not include:
+        tenses = [i for i in names]
+    else:
+        temp = list(filter(lambda x: x > 0 and x < 11, map(int, include.split(' '))))
+        tenses = [names[i-1] for i in temp]
+
     # quiz loop
     try:
         while True:
             verb = random.choice(list(file))
-            tense = random.choice(list(file[verb]))
+            tense = random.choice(tenses)
+
             pronoun = random.choice(list(file[verb][tense]))
             answer = file[verb][tense][pronoun]
 
@@ -201,7 +217,8 @@ def quiz():
             reply = input('> ')
 
             print()
-            if answer == diacritic(reply):
+
+            if answer.replace('(e)', '') == diacritic(reply) or answer.replace('(', '').replace(')', '') == diacritic(reply):
                 rprint('[#77dd77]Correct!')
             else:
                 rprint('[#ff0000]Incorrect')
